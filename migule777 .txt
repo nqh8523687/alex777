@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="===售后提醒===" group-title="===售后提醒===",多设备同时观看必断流
+#EXTINF:-1 tvg-name="===售后提醒===" group-title="===售后提醒===",多设备同时观看将会断流
 http://111.11.123.33:6610/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-HD-移动
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
