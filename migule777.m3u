@@ -1,18 +1,12 @@
 ﻿#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-name="===售后提醒===" group-title="===售后提醒===",多设备同时观看必断流
 http://111.11.123.33:6610/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
-#EXTINF:-1 group-title="== 世界杯专区 ==",某音4K
-http://124.220.17.172/dy.php?id=yd
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-HD-移动
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-HD-移动
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-HD-移动
-http://124.220.17.172/shijiebei/sjb.php?id=3007tt
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-HD-移动
-http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-HD-移动
-http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-HD-移动
 http://111.20.45.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-HD-联通
@@ -26,18 +20,13 @@ http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/inde
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-HD-移动
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-HD-移动
-http://124.220.17.172/shijiebei/sjb.php?id=5008tt
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-HD-移动
 http://111.29.9.40:6610/000000001000/5000000008000023253/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023253
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-HD-移动
 http://111.29.9.41:6610/000000001000/5000000008000023253/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023253
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-HD-移动
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5+HD-移动
-http://124.220.17.172/shijiebei/sjb.php?id=3006tt
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5+HD-移动
-http://111.29.9.37:6610/000000001000/1000000001000018504/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000001000018504
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5+HD-移动
 http://111.29.9.42:6610/000000001000/1000000001000018504/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000001000018504
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5+HD-联通
 http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/cctv5phd/4000000/mnf.m3u8
@@ -52,63 +41,53 @@ http://live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTI
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K-移动
 http://124.220.17.172/shijiebei/sjb.php?id=5009tt
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K-移动
-http://111.29.9.42:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+http://124.220.17.172/shijiebei/sjb.php?id=331
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K-移动
-http://111.29.9.43:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+http://124.220.17.172/shijiebei/sjb.php?id=332
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K-移动
-http://111.29.9.44:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+http://124.220.17.172/shijiebei/sjb.php?id=333
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K-移动
-http://111.29.9.45:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+http://124.220.17.172/shijiebei/sjb.php?id=334
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K-移动
-http://111.29.9.46:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+http://124.220.17.172/shijiebei/sjb.php?id=335
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K-移动
-http://111.29.9.35:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+http://124.220.17.172/shijiebei/sjb.php?id=336
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K-移动
-http://111.29.9.36:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+http://124.220.17.172/shijiebei/sjb.php?id=337
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K-移动
-http://111.29.9.37:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+http://124.220.17.172/shijiebei/sjb.php?id=338
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K-移动
-http://111.29.9.38:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K-移动
-http://111.29.9.39:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K-移动
-http://111.29.9.40:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K-移动
-http://111.29.9.41:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+http://124.220.17.172/shijiebei/sjb.php?id=339
 #EXTINF:-1 group-title="== 世界杯专区 ==",CCTV4K
 http://124.220.17.172/4k.php
 #EXTINF:-1 group-title="== 世界杯专区 ==",咪咕-移动
 http://117.136.156.71:80/000000001000/3000000001000028638/index.m3u8
-#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-A场-移动
+#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-移动
 http://124.220.17.172/mg.php
-#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-A场-移动
+#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-移动
 http://117.136.156.37:80/000000001000/3000000010000015686/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-A场-移动
+#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-移动
 http://117.136.156.38:80/000000001000/3000000010000015686/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-A场-移动
+#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-移动
 http://117.136.156.39:80/000000001000/3000000010000015686/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-A场-移动
+#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-移动
 http://117.136.156.70:80/000000001000/3000000010000015686/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-A场-移动
+#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-移动
 http://117.136.156.68:80/000000001000/3000000010000015686/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-A场-移动
+#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-移动
 http://39.135.42.201:80/000000001000/3000000010000015686/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-B场-移动
+#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-移动
 http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-B场-移动
+#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-移动
 http://117.136.156.34:80/000000001000/3000000010000005180/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-B场-移动
+#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-移动
 http://117.136.156.69:80/000000001000/3000000010000005180/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-B场-移动
+#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-移动
 http://117.136.156.36:80/000000001000/3000000010000005180/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-B场-移动
+#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-移动
 http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-B场-移动
+#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-移动
 http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-B场-移动
-http://39.135.41.245/PLTV/88888888/224/3221226716/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",咪咕4K-B场-移动
-http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?
 #EXTINF:-1 group-title="== 世界杯专区 ==",五星体育(1)
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 group-title="== 世界杯专区 ==",五星体育(2)
@@ -229,7 +208,7 @@ http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
 http://121.27.126.110:808/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="体育专线",CCTV风云足球-Y
 http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2012514203.m3u8
-#EXTINF:-1 tvg-id="ye23" tvg-name="ye23" tvg-logo="https://www.esenabi.com/static/images/xiaoyi_2020/wdbi/changjing2.png" group-title="体育专线",DB2211SJB.V8
+#EXTINF:-1 tvg-id="ye23" tvg-name="ye23" tvg-logo="https://www.esenabi.com/static/images/xiaoyi_2020/wdbi/changjing2.png" group-title="体育专线",DB2211SJB.V9
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 tvg-logo="https://supcache.miancp.com/data/img.ye23.win/11logo/ty/dubaisports.png" group-title="体育专线",Dubai Sports 1
 http://img.ye23.win/iptv2025ok@gmail.com/2211bc/us50.php?id=ds1
@@ -309,6 +288,8 @@ http://img.ye23.win/iptv2025ok@gmail.com/2211bc/ws.php?id=shdy
 http://img.ye23.win/iptv2025ok@gmail.com/2211bc/ye23.php?id=18
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育专线",广东体育
 http://113.64.147.134:808/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育专线",广东体育频道
+http://img.ye23.win/iptv2025ok@gmail.com/2211bc/ye23.php?id=gdty
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://supcache.miancp.com/data/img.ye23.win/11logo/ty/gdtyy.png" group-title="体育专线",广东体育
 http://113.64.147.64:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://supcache.miancp.com/data/img.ye23.win/11logo/ty/gdtyy.png" group-title="体育专线",广东体育A
@@ -317,8 +298,18 @@ http://120.84.96.31:808/hls/22/index.m3u8
 http://120.84.96.73:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://supcache.miancp.com/data/img.ye23.win/11logo/ty/gdtyy.png" group-title="体育专线",广东体育C
 http://120.84.96.161:808/hls/22/index.m3u8
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育专线",广东体育频道
-http://img.ye23.win/iptv2025ok@gmail.com/2211bc/ye23.php?id=gdty
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://supcache.miancp.com/data/img.ye23.win/11logo/ty/gdtyy.png" group-title="体育专线",广东体育D
+http://121.51.249.45/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://supcache.miancp.com/data/img.ye23.win/11logo/ty/gdtyy.png" group-title="体育专线",广东体育E
+http://121.51.249.47/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://supcache.miancp.com/data/img.ye23.win/11logo/ty/gdtyy.png" group-title="体育专线",广东体育F
+http://121.51.249.48/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://supcache.miancp.com/data/img.ye23.win/11logo/ty/gdtyy.png" group-title="体育专线",广东体育G
+http://121.51.249.53/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://supcache.miancp.com/data/img.ye23.win/11logo/ty/gdtyy.png" group-title="体育专线",广东体育H
+http://121.51.249.94/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://supcache.miancp.com/data/img.ye23.win/11logo/ty/gdtyy.png" group-title="体育专线",广东体育I
+http://121.51.249.101/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 #EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://supcache.miancp.com/data/img.ye23.win/11logo/ty/gzjs.png" group-title="体育专线",广州竞赛
 https://justsometime.gztv.com/sec/jingsai.m3u8
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="体育专线",快乐垂钓频道
@@ -3188,7 +3179,7 @@ http://124.236.18.251/yfsl.vsd.gehua.net.cn/live/BTVCaiJingHD_6000.m3u8
 #EXTINF:-1 tvg-name="北京纪实" tvg-logo="http://124.220.17.172/beijing/bjjs.png" group-title="北京",BTV体育
 http://124.220.17.172/bjsj12.php?id=bjjs
 #EXTINF:-1 tvg-name="北京纪实" tvg-logo="http://124.220.17.172/beijing/bjjs.png" group-title="北京",BTV体育(备)
-http://124.236.18.251/yfsl.vsd.gehua.net.cn/live/BTVjishiHD_6000.m3u8
+http://111.62.156.101/pull.brtvcloud.com/brtv8kapptv/brtv8kapp4ktiyu.m3u8
 #EXTINF:-1 tvg-name="BTV生活" tvg-logo="http://124.220.17.172/beijing/bjsh.png" group-title="北京",BTV生活
 http://124.220.17.172/bjsj12.php?id=btvsh
 #EXTINF:-1 tvg-name="BTV生活" tvg-logo="http://124.220.17.172/beijing/bjsh.png" group-title="北京",BTV生活(备)
@@ -3254,13 +3245,9 @@ http://124.220.17.172/gdcd.php?id=nfws
 #EXTINF:-1 tvg-name="广东公共" tvg-logo="http://124.220.17.172/guangdong/zhujiang.png" group-title="广东",广东珠江
 http://219.137.29.20:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="http://124.220.17.172/guangdong/GDTV3.png" group-title="广东",广东体育1
-http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+http://121.51.249.56/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="http://124.220.17.172/guangdong/GDTV3.png" group-title="广东",广东体育2
-http://121.51.249.89/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="http://124.220.17.172/guangdong/GDTV3.png" group-title="广东",广东体育3
-http://121.51.249.92/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="http://124.220.17.172/guangdong/GDTV3.png" group-title="广东",广东体育4
-http://121.51.249.94/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+http://121.51.249.73/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 #EXTINF:-1 group-title="广东",南国都市
 https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1 group-title="广东",广州新闻
@@ -3522,49 +3509,21 @@ http://xingyang.net.cn:4000/udp/225.1.4.102:1131
 #EXTINF:-1 group-title="河南",河南电视剧
 http://218.29.55.44:808/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="http://124.220.17.172/qt/sd_qilu.png" group-title="山东",山东齐鲁
-http://122.4.199.164:9001/hls/27/index.m3u8
+rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
 #EXTINF:-1 tvg-logo="http://124.220.17.172/qt/sd_qilu.png" group-title="山东",山东新闻
-http://222.132.191.125:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+rtmp://livealone.iqilu.com/iqilu/ggpdhjOF03kn
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="http://124.220.17.172/qt/sd_tiyu.png" group-title="山东",山东体育
-http://222.132.191.125:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="http://124.220.17.172/qt/sd_shaoer.png" group-title="山东",山东少儿
-http://222.132.191.125:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+rtmp://livealone.iqilu.com/iqilu/sepdhjOF03kn
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="http://124.220.17.172/qt/sd_zongyi.png" group-title="山东",山东综艺
-http://221.1.219.246:18080/hls/24/index.m3u8
+rtmp://livealone.iqilu.com/iqilu/zypdhjOF03kn
 #EXTINF:-1 group-title="山东",山东文旅
-http://221.1.219.246:18080/hls/22/index.m3u8
+rtmp://livealone.iqilu.com/iqilu/yspdhjOF03kn
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="http://124.220.17.172/qt/sd_shenghuo.png" group-title="山东",山东生活
-http://221.1.219.246:18080/hls/23/index.m3u8
+rtmp://livealone.iqilu.com/iqilu/shpdhjOF03kn
 #EXTINF:-1 tvg-name="山东农科" tvg-logo="http://124.220.17.172/qt/sd_nongke.png" group-title="山东",山东农科
-http://124.220.17.172/sd.php?id=nkpd
-#EXTINF:-1 group-title="山东",济宁综合
-http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
-#EXTINF:-1 group-title="山东",济宁生活
-http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
-#EXTINF:-1 group-title="山东",济宁公共
-http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
-#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="http://124.220.17.172/qt/sd_qilu.png" group-title="山东",山东齐鲁
-http://122.4.199.164:9001/hls/27/index.m3u8
-#EXTINF:-1 tvg-logo="http://124.220.17.172/qt/sd_qilu.png" group-title="山东",山东新闻
-http://222.132.191.125:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="http://124.220.17.172/qt/sd_tiyu.png" group-title="山东",山东体育
-http://222.132.191.125:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东少儿" tvg-logo="http://124.220.17.172/qt/sd_shaoer.png" group-title="山东",山东少儿
-http://222.132.191.125:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东综艺" tvg-logo="http://124.220.17.172/qt/sd_zongyi.png" group-title="山东",山东综艺
-http://221.1.219.246:18080/hls/24/index.m3u8
-#EXTINF:-1 group-title="山东",山东文旅
-http://221.1.219.246:18080/hls/22/index.m3u8
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="http://124.220.17.172/qt/sd_shenghuo.png" group-title="山东",山东生活
-http://221.1.219.246:18080/hls/23/index.m3u8
-#EXTINF:-1 tvg-name="山东农科" tvg-logo="http://124.220.17.172/qt/sd_nongke.png" group-title="山东",山东农科
-http://124.220.17.172/sd.php?id=nkpd
-#EXTINF:-1 group-title="山东",济宁综合
-http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
-#EXTINF:-1 group-title="山东",济宁生活
-http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
-#EXTINF:-1 group-title="山东",济宁公共
-http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
+rtmp://livealone.iqilu.com/iqilu/nkpdhjOF03kn
 #EXTINF:-1 group-title="湖北",湖北经视
 http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="湖北综合频道" tvg-logo="http://124.220.17.172/qt/HUBEI2.png" group-title="湖北",湖北综合
@@ -4001,10 +3960,6 @@ http://img.ye23.win/iptv2025ok@gmail.com/2211bc/yeqq.php?id=638408
 http://img.ye23.win/iptv2025ok@gmail.com/2211bc/yeqq.php?id=385806
 #EXTINF:-1 tvg-id="经典剧集" tvg-name="经典剧集" tvg-logo="https://p3-sign.bdxiguaimg.com/xigua-lvideo-pic/9a213baf135722b745e876006469d7be~tpl-1_noop.webp?x-expires=1669633849&x-signature=uzAoaKWKZfZ8Ln0KzJOtylS3HGA%3D" group-title="热播电影",拆弹专家
 http://img.ye23.win/iptv2025ok@gmail.com/2211bc/yeqq.php?id=823758
-#EXTINF:-1 tvg-id="经典剧集" tvg-name="经典剧集" tvg-logo="https://img2.baidu.com/it/u=3647395360,4183155676&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500" group-title="热播电影",军旅剧场
-http://img.ye23.win/iptv2025ok@gmail.com/2211bc/yeqq.php?id=26324
-#EXTINF:-1 tvg-id="经典剧集" tvg-name="经典剧集" tvg-logo="https://img2.baidu.com/it/u=558486962,253192479&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500" group-title="热播电影",中国功夫
-http://img.ye23.win/iptv2025ok@gmail.com/2211bc/yeqq.php?id=26321
 #EXTINF:-1 tvg-id="经典剧集" tvg-name="经典剧集" tvg-logo="http://img24.pplive.cn/2022/09/29/16190805818_230X306.jpg" group-title="热播电影",米酒女孩
 http://img.ye23.win/iptv2025ok@gmail.com/2211bc/yeqq.php?id=M0kfnARq2hh7ibWE
 #EXTINF:-1 tvg-id="经典剧集" tvg-name="经典剧集" tvg-logo="http://img24.pplive.cn/2022/08/26/16105757164_230X306.jpg" group-title="热播电影",藤球王
@@ -4353,3 +4308,5 @@ http://111.11.123.33:6610/000000001000/5822616274253344775/index.m3u8?channel-id
 http://111.11.123.33:6610/000000001000/7681593242002292003/index.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="http://124.220.17.172/newtv/jingpinmengchong.png" group-title="NewTV",NewTV魅力潇湘
 http://111.11.123.33:6610/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="重庆新闻" group-title="重庆",CQTV新闻
+http://dyzy.pub:8000/udp/235.254.197.199:7980
