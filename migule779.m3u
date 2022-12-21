@@ -4589,10 +4589,6 @@ https://epg.pm/stream/bcf11d27e2ce62a0b2dca5d8c81e2d6f66c725fe2e5b6eb82c2897074e
 https://epg.pm/stream/66656cb6a3d1a271b3be81da3f56c7f2a739a0b525a66039ae85a4ca491db310.m3u8
 #EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="体育",智林体育
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",BBC 1
-http://198.16.64.10:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",SPO TV SPORTS 2
-http://198.16.64.10:8278/Bein2hd/playlist.m3u8?tid=MD5D6186771861867718&ct=19225&tsum=7c0ab40062586283b22934ea37318203
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",beIN-SPORTS
 http://51.79.82.208:16064
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",beIN-SPORTS 3
