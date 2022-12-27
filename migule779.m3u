@@ -3,7 +3,7 @@
 http://111.11.123.33:6610/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===12.17更新日志[持续更新]===",新增ipv6节目源一套,体育专线部分节目优化,4K分类节目优化
 http://111.11.123.39:6610/000000001000/7882297361445410858/1.m3u8?Contentid=7882297361445410858&livemode=1&stbId=2&channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===售后客服===",tb搜索：菲利克斯的iptv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===售后客服===",tb搜索店铺：菲利克斯的iptv
 http://111.11.123.39:6610/000000001000/5897056882324761054/1.m3u8?Contentid=5897056882324761054&livemode=1&stbId=2&channel-id=ystenlive
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="主线路优先使用1",CCTV1
 http://111.11.123.39:6610/000000001000/1000000001000021973/1.m3u8?Contentid=1000000001000021973&livemode=1&stbId=2&channel-id=ystenlive
