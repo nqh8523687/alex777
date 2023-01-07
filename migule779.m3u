@@ -5247,18 +5247,6 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225703/index.m3u8
 http://112.19.214.90:8883/tsfile/live/0124_1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://222.240.82.92:9901/tsfile/live/0124_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",ONE Golf「高尔夫」
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA TV
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",Ski TV 「滑雪」
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
-#EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育专线",爱尔达体育1台
-http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
-#EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育专线",爱尔达体育1台
-http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-#EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="体育专线",爱尔达体育2台
-http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育专线",广东体育
 http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育专线",广东体育
@@ -5283,58 +5271,6 @@ http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 https://epg.pm/stream/bcf11d27e2ce62a0b2dca5d8c81e2d6f66c725fe2e5b6eb82c2897074e4b8f7d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",SiTV新视觉
 https://epg.pm/stream/66656cb6a3d1a271b3be81da3f56c7f2a739a0b525a66039ae85a4ca491db310.m3u8
-#EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="体育专线",智林体育
-http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",beIN-SPORTS
-http://51.79.82.208:16064
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",beIN-SPORTS 3
-http://51.79.82.208:16065
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",BT Sports 2
-http://198.16.64.10:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",EDGEsport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",EDGEsport
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",ELEVEN 1
-http://cineapp.org:8000/Fernando/Fernando/7451
-#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="体育专线",ELEVEN 2
-http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",ELEVEN 3
-http://cineapp.org:8000/Fernando/Fernando/7453
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",ELEVEN 6
-http://cineapp.org:8000/Fernando/Fernando/7456
-#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育专线",ELEVEN体育1台
-http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
-#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育专线",ELEVEN体育1台
-http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
-#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="体育专线",ELEVEN体育2台
-http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",FreeSports
-https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",FTF Sport
-https://elevensports-samsunguk-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",Sports Tonight
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",TNTSPORTS 1
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",TNTSPORTS 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",TNTSPORTS 3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",TNTSPORTS 4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",TNTSPORTS 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="赛事",暴雪·游戏
 http://tc-tct.douyucdn2.cn/dyliveflv1/525207rUBsWpKrbH_2000p.flv?wsAuth=b99202a05d1ace952240eb88227f82bb&token=cpn-androidmpro-0-525207-6d6087ff47bebf4b5f7319afeec10aafdeb782a2ad389c8d&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="赛事",绝地求生·PGC
