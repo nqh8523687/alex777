@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===售后提醒===",多设备同时观看必断流,线路多自行测试后收藏观看
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===1.11更新日志[持续更新]===",新增主线路5，主线路6,另优化4K及凤凰
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===1.11更新日志[持续更新]===",新增主线路5，主线路6,移动网络主线路，另优化4K及凤凰
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="8M码率主线路",cctv1
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
@@ -1375,6 +1375,106 @@ http://bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="主线路5",CCTV兵器科技高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="移动优先主线路",CCTV-1
+http://39.134.65.149/PLTV/88888888/224/3221225734/1.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="移动优先主线路",CCTV-2
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="移动优先主线路",CCTV-3
+http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="移动优先主线路",CCTV-4
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="移动优先主线路",CCTV-5
+http://39.134.65.149/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="移动优先主线路",CCTV-5+
+http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="移动优先主线路",CCTV-6
+http://39.134.65.149/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="移动优先主线路",CCTV-7
+http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="移动优先主线路",CCTV-8
+http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="移动优先主线路",CCTV-9
+http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="移动优先主线路",CCTV-10
+http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="移动优先主线路",CCTV-11
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="移动优先主线路",CCTV-12
+http://39.134.66.110/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="移动优先主线路",CCTV-13
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="移动优先主线路",CCTV-14
+http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="移动优先主线路",CCTV-15
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="移动优先主线路",CCTV-16
+http://39.134.66.110/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="移动优先主线路",CCTV-17
+http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="移动优先主线路",CCTV-4K
+http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTV.png" group-title="移动优先主线路",北京卫视
+http://39.134.66.110/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="移动优先主线路",东方卫视
+http://39.134.66.110/PLTV/88888888/224/3221225942/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="移动优先主线路",黑龙江卫视
+http://39.134.66.110/PLTV/88888888/224/3221225985/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="移动优先主线路",吉林卫视
+http://39.134.66.110/PLTV/88888888/224/3221225981/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="移动优先主线路",辽宁卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="移动优先主线路",浙江卫视
+http://39.134.66.110/PLTV/88888888/224/3221225959/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="移动优先主线路",天津卫视
+http://39.134.66.110/PLTV/88888888/224/3221225972/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="移动优先主线路",湖南卫视
+http://39.134.66.110/PLTV/88888888/224/3221225977/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="移动优先主线路",河北卫视
+http://39.134.66.110/PLTV/88888888/224/3221225961/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="移动优先主线路",山西卫视
+http://player.521fanli.cn/1691/0/tide/tidem3u8.php?id=shanxihd
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="移动优先主线路",山东卫视
+http://39.134.66.110/PLTV/88888888/224/3221225952/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="移动优先主线路",江苏卫视
+http://39.134.66.110/PLTV/88888888/224/3221225938/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="移动优先主线路",安徽卫视
+http://39.134.66.110/PLTV/88888888/224/3221225925/index.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="移动优先主线路",河南卫视
+http://39.134.66.110/PLTV/88888888/224/3221225988/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="移动优先主线路",湖北卫视
+http://39.134.66.110/PLTV/88888888/224/3221225975/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="移动优先主线路",江西卫视
+http://39.134.66.110/PLTV/88888888/224/3221225935/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="移动优先主线路",广东卫视
+http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="移动优先主线路",东南卫视
+http://39.134.66.110/PLTV/88888888/224/3221225950/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="移动优先主线路",广西卫视
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="移动优先主线路",海南卫视
+http://39.134.66.110/PLTV/88888888/224/3221225978/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="移动优先主线路",四川卫视
+http://39.134.66.110/PLTV/88888888/224/3221225970/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/chongqing.png" group-title="移动优先主线路",重庆卫视
+http://39.134.66.110/PLTV/88888888/224/3221225963/index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="移动优先主线路",云南卫视
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="移动优先主线路",贵州卫视
+http://39.134.66.110/PLTV/88888888/224/3221225974/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="移动优先主线路",甘肃卫视
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVwenyi.png" group-title="移动优先主线路",北京文艺
+http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVjishikejiao.png" group-title="移动优先主线路",北京科教
+http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappkejiao.m3u8
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVyingshi.png" group-title="移动优先主线路",北京影视
+http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVcaijing.png" group-title="移动优先主线路",北京财经
+http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVshenghuo.png" group-title="移动优先主线路",北京生活
+http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVNews.png" group-title="移动优先主线路",北京新闻
+http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主线路6[支持ipv6优先使用]",CCTV-1  
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="主线路6[支持ipv6优先使用]",CCTV-2  
