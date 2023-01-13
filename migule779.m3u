@@ -4,9 +4,9 @@ http://tt-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===1.14更新日志[持续更新]===",8M码率主线路部分节目目前时间出现问题，置顶主线路2，也是8M线路，放心使用
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特别通知，如遇到节目播放不畅卡顿问题，先重新导入直播源或者手动更新直播源",大概率是本地播放器没有同步更新缘故
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="如遇卡顿播放不畅，重新导入直播源",如遇卡顿播放不畅，重新导入直播源
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主线路2",cctv1
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="主线路2",cctv2
