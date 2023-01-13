@@ -155,6 +155,12 @@ http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mn
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",热门剧场
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",足球频道
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="主线路2",魅力足球
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",动漫秀场
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title=""主线路2",凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title=""主线路2",凤凰资讯
