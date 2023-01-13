@@ -822,7 +822,7 @@ http://hls.ye23.vip/dl/4k.cctv.php
 #EXTINF:-1 group-title="体育专线",劲爆体育
 http://39.134.165.130:6610/000000001000/5000000002000029972/index.m3u8?
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育专线",劲爆体育
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+http://tt-live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="体育专线",CCTV4K-25P-HLG源
@@ -852,7 +852,7 @@ http://113.117.74.11:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="体育专线",风云足球
 http://113.117.74.11:808/hls/119/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育专线",五星体育
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+http://tt-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育专线",CCTV5-高清(1)
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育专线",CCTV5-高清(2)
@@ -892,7 +892,7 @@ http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channel-id
 #EXTINF:-1 tvg-name="欢笑剧场4KHLG" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/592C8D88-DA83-41ED-8824-E2E2E54E396C.png" group-title="4K",欢笑剧场4KHLG小果源
 http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场4K
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
+http://tt-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV4K-25P-HLG" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K-25P-HLG源
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-name="CCTV4K-50P-HLG" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K-50P-HLG小果源
@@ -1386,7 +1386,7 @@ http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="移动优先主线路",东南卫视
 http://39.134.66.110/PLTV/88888888/224/3221225950/index.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="移动优先主线路",广西卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8
+http://tt-live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="移动优先主线路",海南卫视
 http://39.134.66.110/PLTV/88888888/224/3221225978/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="移动优先主线路",四川卫视
@@ -1394,11 +1394,11 @@ http://39.134.66.110/PLTV/88888888/224/3221225970/index.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/chongqing.png" group-title="移动优先主线路",重庆卫视
 http://39.134.66.110/PLTV/88888888/224/3221225963/index.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="移动优先主线路",云南卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
+http://tt-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="移动优先主线路",贵州卫视
 http://39.134.66.110/PLTV/88888888/224/3221225974/index.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="移动优先主线路",甘肃卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8
+http://tt-live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVwenyi.png" group-title="移动优先主线路",北京文艺
 http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVjishikejiao.png" group-title="移动优先主线路",北京科教
