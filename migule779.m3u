@@ -1488,8 +1488,6 @@ https://live.v1.mk/api/ghyx.php?id=ZhiYePinDaoHD_2000
 https://live.v1.mk/api/ghyx.php?id=ZhongHuaMeiShiHD_2000
 #EXTINF:-1 tvg-id="6608" tvg-name="环球旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg" group-title="8M码率主线路3",环球旅游
 https://live.v1.mk/api/ghyx.php?id=HuanQiuLvYouHD_2000
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
-https://live.v1.mk/api/ghyx.php?id=ZhongShiGouWuHD_2000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="8M码率主线路3",央广购物
 https://live.v1.mk/api/ghyx.php?id=YangShiGouWuHD_2000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="8M码率主线路3",聚鲨环球精选
