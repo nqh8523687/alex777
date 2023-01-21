@@ -1,24 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===售后提醒===",多设备同时观看必断流,线路多自行测试后收藏观看
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===1.17更新日志[持续更新]===",新增8M码率主线路4、5，主线路7，修复8M码率主线路2节目预告台标问题，备战春节
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===1.21更新日志[持续更新]===",新增4K春晚专栏，祝各位新春大吉，前兔似锦，鸿兔大展
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===1.22更新日志[持续更新]===",4K春晚基本完美顶住各种压力，5条线路高峰只挂了一条。
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特别通知，如遇到节目播放不畅卡顿问题，先重新导入直播源或者手动更新直播源",大概率是本地播放器没有同步更新缘故
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="如遇卡顿播放不畅，重新导入直播源",如遇卡顿播放不畅，重新导入直播源
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K春晚专栏，各位新春快乐",CCTV4K
-http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K春晚专栏，各位新春快乐",CCTV4K
-http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K春晚专栏，各位新春快乐",CCTV4K
-http://159.75.85.63:8654/telegram@feiyangdigital-sxg-cctv4k.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K春晚专栏，各位新春快乐",CCTV4K
-http://114.132.210.86:8765/telegram@feiyangdigital-cqyx-cctv4k.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K春晚专栏，各位新春快乐",CCTV4K
-http://114.132.210.86:8765/telegram@feiyangdigital-bestv-cctv4k.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主线路2",cctv1
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="主线路2",cctv2
