@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===售后提醒===",多设备同时观看必断流,线路多自行测试后收藏观看
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===1.16更新日志[持续更新]===",新增8M码率主线路3，优化主线路4，备战春节
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===1.17更新日志[持续更新]===",新增8M码率主线路4、5，主线路7，修复8M码率主线路2节目预告台标问题，备战春节
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===1.21更新日志[持续更新]===",新增4K春晚专栏，祝各位新春大吉，前兔似锦，鸿兔大展
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特别通知，如遇到节目播放不畅卡顿问题，先重新导入直播源或者手动更新直播源",大概率是本地播放器没有同步更新缘故
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
