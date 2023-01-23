@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===售后提醒===",多设备同时观看必断流,线路多自行测试后收藏观看
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===1.21更新日志[持续更新]===",新增4K春晚专栏，祝各位新春大吉，前兔似锦，鸿兔大展
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===1.22更新日志[持续更新]===",4K春晚基本完美顶住各种压力，5条线路高峰只挂了一条。
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===1.23更新日志[持续更新]===",优化4K分类。
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特别通知，如遇到节目播放不畅卡顿问题，先重新导入直播源或者手动更新直播源",大概率是本地播放器没有同步更新缘故
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
@@ -923,68 +923,60 @@ http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
 http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
 #EXTINF:-1,tvg-id="咪咕10" tvg-name="咪咕10" tvg-logo="https://epg.112114.xyz/logo/咪咕10.png" group-title="体育专线",咪咕10
 http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
-#EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="4K",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-name="BTV纪实科教-8KSDR" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/6b43dea36f823761380072013ab25d1594f58aad.jpg" group-title="4K",BTV纪实科教-8KSDR源
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",BTV纪实科教-8KSDR源
 http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/592C8D88-DA83-41ED-8824-E2E2E54E396C.png" group-title="4K",欢笑剧场4K
-http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="欢笑剧场4KHLG" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/592C8D88-DA83-41ED-8824-E2E2E54E396C.png" group-title="4K",欢笑剧场4KHLG小果源
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场4KHLG
 http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场4K
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K",欢笑剧场4k
-https://www.whalenas.com/bestv/index.php?id=hxjc4k/15000000
-#EXTINF:-1 tvg-name="CCTV4K-25P-HLG" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K-25P-HLG源
+http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",纯享4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",纯享4K备
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K-25P-HLG
 http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1 tvg-name="CCTV4K-50P-HLG" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K-50P-HLG
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K-50P-HLG
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K",CCTV-4K
-https://www.whalenas.com/bestv/index.php?id=cctv4k/15000000
-#EXTINF:-1 tvg-name="CCTV16-4K-SDR源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV16-4K-SDR源
-http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
-#EXTINF:-1 tvg-name="CCTV16-4K-25PHLG" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV16-4K-25PHLG源
-http://live.cooltv.top/tv/aishang.php?id=cctv164k
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K",CCTV16-4K
-https://www.whalenas.com/bestv/index.php?id=cctv16hd4k/15000000
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="SiTV欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="芒果综艺" tvg-name="芒果综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="4K",芒果综艺
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K-IPV6
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场4K
-http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K
-http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV16-4K
-http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
-#EXTINF:-1 tvg-name="CCTV16-4K-50P-HLG" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV16-4K-50P-HLG
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV16-4K25P-SDR
+http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV16-4K-25PHLG源
+https://live.v1.mk/aishang/cctv164k
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV16-4K-50P-HLG
 http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-#EXTINF:-1 tvg-name="CCTV16-4K-50P-IPV6-HLG" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV16-4K-50P-IPV6-HLG源
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV16-4K-50P-IPV6-HLG
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="4K",爱上4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 tvg-name="北京IPTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EE6DBA9B-428F-460D-BAE3-5480771810C0.jpeg" group-title="4K",北京IPTV-4K
-http://219.142.147.225:9901/tsfile/live/1011_1.m3u8
-#EXTINF:-1 tvg-name="北京BesTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/141483E8-4B59-4E76-921C-A5FD64636892.jpeg" group-title="4K",北京BesTV-4K
-http://beifeng.site:4000/udp/239.3.1.249:8001
-#EXTINF:-1 tvg-name="4K影视" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="4K",4K影视
-http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="河南4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/hn4k.png" group-title="4K",河南4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",北京IPTV-4K
+http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",芒果综艺
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",BesTV-4K
+http://74.119.193.113:8280/live/bestv4k/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K影视
+http://159.75.85.63:5828/4kys.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",河南4K
 http://74.119.193.113:8280/live/hn4k/hls.m3u8
-#EXTINF:-1 tvg-name="芒果娱乐4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="4K",芒果娱乐4K
-http://74.119.193.113:8280/live/mgyl4k/hls.m3u8
-#EXTINF:-1 tvg-name="咪咕体育-4K-SDR" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="4K",咪咕体育-4K-SDR源
-http://120.234.220.107:9000/udp/239.20.0.66:3136
-#EXTINF:-1 tvg-name="咪咕体育-4K-HLG" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="4K",咪咕体育-4K-HLG源
-http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用1" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="4K",咪咕体育-4K-HLG源-1
-http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用2" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="4K",咪咕体育-4K-HLG源-2
-http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 tvg-name="斗鱼4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="4K",斗鱼4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K超高清电影
+http://159.75.85.63:5681/sxg.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",斗鱼4K
 http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",咪咕体育-4K-HLG
+http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",咪咕体育-4K-HLG-1
+http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",咪咕体育-4K-HLG-2
+http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱自然
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="4K",CCTV-8K-测试
+http://74.119.193.113:8280/live/cctv8k/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",江苏8K测试
+http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",黑莓电影
 http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?Contentid=1000000004000019624&livemode=1&stbId=3&channel-id=ystenlive
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",超级电视剧
