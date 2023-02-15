@@ -4722,8 +4722,6 @@ http://iptv.cooltv.top/tv/yqdtv.php?id=094
 http://iptv.cooltv.top/tv/yqdtv.php?id=088
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="ipv6【新】",文物宝库
 http://iptv.cooltv.top/tv/dxxw.php?id=155
-#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="辽宁",新动漫
-http://iptv.cooltv.top/tv/aishang.php?id=xdm
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="ipv6【新】",中国交通频道(湖北)
 https://tv.lanjingfm.com/cctbn/hubei.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="ipv6【新】",第一财经
