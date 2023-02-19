@@ -109,7 +109,7 @@ https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="主线路2",金鹰纪实 8M
 https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/戏曲精选.png" group-title="主线路2",戏曲精选 8M
+#EXTINF:-1,tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://epg.112114.xyz/logo/戏曲精选.png" group-title="主线路2",戏曲精选 8M
 https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000
 #EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="主线路2",上海第一财经 8M
 https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
@@ -137,31 +137,31 @@ https://live.v1.mk/api/bestv.php?id=shss8m/8000000
 https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="主线路2",游戏风云 8M
 https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="主线路2",热门综艺 8M
+#EXTINF:-1,tvg-id="热门综艺 " tvg-name="热门综艺 " tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="主线路2",热门综艺 8M
 https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
 #EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="主线路2",超级体育 8M
 https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/健康养生.png" group-title="主线路2",健康养生 8M
+#EXTINF:-1,tvg-id="健康养生 " tvg-name="健康养生 " tvg-logo="https://epg.112114.xyz/logo/健康养生.png" group-title="主线路2",健康养生 8M
 https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百变课堂.png" group-title="主线路2",百变课堂 8M
+#EXTINF:-1,tvg-id="百变课堂" tvg-name="百变课堂" tvg-logo="https://epg.112114.xyz/logo/百变课堂.png" group-title="主线路2",百变课堂 8M
 https://live.v1.mk/api/bestv.php?id=bbkt8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="主线路2",看天下精选 8M
+#EXTINF:-1,tvg-id=",看天下精选" tvg-name=",看天下精选" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="主线路2",看天下精选 8M
 https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="主线路2",华语影院 8M
+#EXTINF:-1,tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="主线路2",华语影院 8M
 https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
 #EXTINF:-1,tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="主线路2",电竞天堂 8M
 https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="主线路2",青春动漫 8M
+#EXTINF:-1,tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="主线路2",青春动漫 8M
 https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="主线路2",宝宝动画 8M
+#EXTINF:-1,tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="主线路2",宝宝动画 8M
 https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/星光影院.png" group-title="主线路2",星光影院 8M
+#EXTINF:-1,tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://epg.112114.xyz/logo/星光影院.png" group-title="主线路2",星光影院 8M
 https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
 #EXTINF:-1,tvg-id="红色谍战剧场" tvg-name="红色谍战剧场" tvg-logo="https://epg.112114.xyz/logo/红色谍战剧场.png" group-title="主线路2",谍战剧场 8M
 https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/全球大片.png" group-title="主线路2",全球大片 8M
+#EXTINF:-1,tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://epg.112114.xyz/logo/全球大片.png" group-title="主线路2",全球大片 8M
 https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/热门剧场.png" group-title="主线路2",热门剧场 8M
+#EXTINF:-1,tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://epg.112114.xyz/logo/热门剧场.png" group-title="主线路2",热门剧场 8M
 https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
 #EXTINF:-1,tvg-id="陶瓷" tvg-name="陶瓷" tvg-logo="https://epg.112114.xyz/logo/陶瓷.png" group-title="主线路2",陶瓷高清 8M
 https://live.v1.mk/api/bestv.php?id=taocihd/8000000
@@ -171,21 +171,21 @@ https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000
 https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="主线路2",卡酷少儿 8M
 https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="主线路2",纪实科教 8M
+#EXTINF:-1,tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="主线路2",纪实科教 8M
 https://live.v1.mk/api/bestv.php?id=dajs8m/8000000
 #EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="主线路2",茶频道 8M
 https://live.v1.mk/api/bestv.php?id=cpdhdavs8m/8000000
 #EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="主线路2",足球高清 8M
 https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="主线路2",炫动卡通 8M
+#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="主线路2",炫动卡通 8M
 https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="主线路2",东方财经 8M
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="主线路2",东方财经 8M
 https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="主线路2",都市剧场 8M
 https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="主线路2",动漫秀场 8M
 https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="主线路2",法治天地 8M
+#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="主线路2",法治天地 8M
 https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
 #EXTINF:-1,tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="主线路2",金色学堂 8M
 https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
