@@ -9,187 +9,187 @@ https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="如遇卡顿播放不畅，重新导入直播源",如遇卡顿播放不畅，重新导入直播源
 https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="主线路2",CCTV16-4K
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="主线路2",CCTV16
 https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="主线路2",CCTV-4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主线路2",CCTV4K
 https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="主线路2",欢笑剧场4k
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="主线路2",欢笑剧场
 https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="主线路2",CCTV1 8M
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主线路2",CCTV1
 https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="主线路2",CCTV2 8M
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="主线路2",CCTV2
 https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="主线路2",CCTV3 8M
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="主线路2",CCTV3
 https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="主线路2",CCTV4 8M
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="主线路2",CCTV4
 https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="主线路2",CCTV5 8M
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="主线路2",CCTV5
 https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="主线路2",CCTV5+ 8M
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="主线路2",CCTV5+
 https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="主线路2",CCTV6 8M
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="主线路2",CCTV6
 https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="主线路2",CCTV7 8M
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="主线路2",CCTV7
 https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="主线路2",CCTV8 8M
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="主线路2",CCTV8
 https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="主线路2",CCTV9 8M
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="主线路2",CCTV9
 https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="主线路2",CCTV10 8M
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="主线路2",CCTV10
 https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="主线路2",CCTV11 8M
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="主线路2",CCTV11
 https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="主线路2",CCTV12 8M
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="主线路2",CCTV12
 https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="主线路2",CCTV13 8M
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="主线路2",CCTV13
 https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="主线路2",CCTV14 8M
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="主线路2",CCTV14
 https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="主线路2",CCTV15 8M
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="主线路2",CCTV15
 https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="主线路2",CCTV16 8M
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="主线路2",CCTV16
 https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="主线路2",CCTV17 8M
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="主线路2",CCTV17
 https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="主线路2",江苏卫视 8M
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="主线路2",江苏卫视
 https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="主线路2",广西卫视 8M
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="主线路2",广西卫视
 https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="主线路2",四川卫视 8M
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="主线路2",四川卫视
 https://live.v1.mk/api/bestv.php?id=scwshd/8000000
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="主线路2",湖南卫视 8M
-https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="主线路2",浙江卫视 8M
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="主线路2",湖南卫视
+https://live.v1.mk/api/bestv.php?id=hunantvhd8m/8000000
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="主线路2",浙江卫视
 https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="主线路2",东方卫视 8M
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="主线路2",东方卫视
 https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="主线路2",北京卫视 8M
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="主线路2",北京卫视
 https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="主线路2",天津卫视 8M
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="主线路2",天津卫视
 https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="主线路2",辽宁卫视 8M
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="主线路2",辽宁卫视
 https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="主线路2",安徽卫视 8M
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="主线路2",安徽卫视
 https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="主线路2",黑龙江卫视 8M
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="主线路2",黑龙江卫视
 https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="主线路2",广东卫视 8M
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="主线路2",广东卫视
 https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="主线路2",深圳卫视 8M
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="主线路2",深圳卫视
 https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="主线路2",湖北卫视 8M
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="主线路2",湖北卫视
 https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="主线路2",吉林卫视 8M
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="主线路2",吉林卫视
 https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="主线路2",山东卫视 8M
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="主线路2",山东卫视
 https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="主线路2",江西卫视 8M
-https://live.v1.mk/api/bestv.php?id=jxws8m/8000000
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="主线路2",河南卫视 8M
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="主线路2",江西卫视
+https://live.v1.mk/api/bestv.php?id=jxwshd8m/8000000
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="主线路2",河南卫视
 https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="主线路2",河北卫视 8M
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="主线路2",河北卫视
 https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000
-#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="主线路2",甘肃卫视 8M
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="主线路2",甘肃卫视
 https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="主线路2",重庆卫视 8M
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="主线路2",重庆卫视
 https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="主线路2",东南卫视 8M
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="主线路2",东南卫视
 https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
-#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="主线路2",云南卫视 8M
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="主线路2",云南卫视
 https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="主线路2",贵州卫视 8M
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="主线路2",贵州卫视
 https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="主线路2",海南卫视 8M
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="主线路2",海南卫视
 https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="主线路2",欢笑剧场 8M
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="主线路2",欢笑剧场
 https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
-#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="主线路2",劲爆体育 8M
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="主线路2",劲爆体育
 https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
-#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="主线路2",快乐垂钓 8M
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="主线路2",快乐垂钓
 https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="主线路2",金鹰纪实 8M
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="主线路2",金鹰纪实
 https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
-#EXTINF:-1,tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://epg.112114.xyz/logo/戏曲精选.png" group-title="主线路2",戏曲精选 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",戏曲精选
 https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000
-#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="主线路2",上海第一财经 8M
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="主线路2",上海第一财经
 https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
-#EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://epg.112114.xyz/logo/上视新闻.png" group-title="主线路2",上视新闻 8M
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="主线路2",上视新闻
 https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
-#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="主线路2",上海都市 8M
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="主线路2",上海都市
 https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
-#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="主线路2",上海纪实 8M
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="主线路2",上海纪实
 https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
-#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="主线路2",东方影视 8M
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="主线路2",上视东方影视
 https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="主线路2",五星体育 8M
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="主线路2",五星体育
 https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1,tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://epg.112114.xyz/logo/上视外语.png" group-title="主线路2",上视外语 8M
+#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="主线路2",上视外语
 https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
-#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="主线路2",七彩戏剧 8M
+#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="主线路2",SITV七彩戏剧
 https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
-#EXTINF:-1,tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/上海教育台.png" group-title="主线路2",上海教育 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",上海教育
 https://live.v1.mk/api/bestv.php?id=setvhd/8000000
-#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="主线路2",全纪实 8M
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="主线路2",全纪实
 https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
-#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="主线路2",生活时尚 8M
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="主线路2",生活时尚
 https://live.v1.mk/api/bestv.php?id=shss8m/8000000
-#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="主线路2",新视觉 8M
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="主线路2",新视觉
 https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
-#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="主线路2",游戏风云 8M
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="主线路2",游戏风云
 https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000
-#EXTINF:-1,tvg-id="热门综艺 " tvg-name="热门综艺 " tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="主线路2",热门综艺 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",热门综艺
 https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
-#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="主线路2",超级体育 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",超级体育
 https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
-#EXTINF:-1,tvg-id="健康养生 " tvg-name="健康养生 " tvg-logo="https://epg.112114.xyz/logo/健康养生.png" group-title="主线路2",健康养生 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",健康养生
 https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
-#EXTINF:-1,tvg-id="百变课堂" tvg-name="百变课堂" tvg-logo="https://epg.112114.xyz/logo/百变课堂.png" group-title="主线路2",百变课堂 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",百变课堂
 https://live.v1.mk/api/bestv.php?id=bbkt8m/8000000
-#EXTINF:-1,tvg-id=",看天下精选" tvg-name=",看天下精选" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="主线路2",看天下精选 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",看天下精选
 https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
-#EXTINF:-1,tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="主线路2",华语影院 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",华语影院
 https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
-#EXTINF:-1,tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="主线路2",电竞天堂 8M
+#EXTINF:-1 tvg-id="85" tvg-name="电竞天堂" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dianjingtiantang.png" group-title="主线路2",电竞天堂
 https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
-#EXTINF:-1,tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="主线路2",青春动漫 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",青春动漫
 https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
-#EXTINF:-1,tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="主线路2",宝宝动画 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",宝宝动画
 https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
-#EXTINF:-1,tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://epg.112114.xyz/logo/星光影院.png" group-title="主线路2",星光影院 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",星光影院
 https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
-#EXTINF:-1,tvg-id="红色谍战剧场" tvg-name="红色谍战剧场" tvg-logo="https://epg.112114.xyz/logo/红色谍战剧场.png" group-title="主线路2",谍战剧场 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",谍战剧场
 https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
-#EXTINF:-1,tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://epg.112114.xyz/logo/全球大片.png" group-title="主线路2",全球大片 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",全球大片
 https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
-#EXTINF:-1,tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://epg.112114.xyz/logo/热门剧场.png" group-title="主线路2",热门剧场 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",热门剧场
 https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
-#EXTINF:-1,tvg-id="陶瓷" tvg-name="陶瓷" tvg-logo="https://epg.112114.xyz/logo/陶瓷.png" group-title="主线路2",陶瓷高清 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",陶瓷高清
 https://live.v1.mk/api/bestv.php?id=taocihd/8000000
-#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="主线路2",中国教育-1 8M
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="主线路2",中国教育-1
 https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000
-#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="主线路2",中国教育-4 8M
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="主线路2",中国教育-4
 https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="主线路2",卡酷少儿 8M
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="主线路2",卡酷少儿
 https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
-#EXTINF:-1,tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="主线路2",纪实科教 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",纪实科教
 https://live.v1.mk/api/bestv.php?id=dajs8m/8000000
-#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="主线路2",茶频道 8M
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="主线路2",茶频道
 https://live.v1.mk/api/bestv.php?id=cpdhdavs8m/8000000
-#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="主线路2",足球高清 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",足球高清
 https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
-#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="主线路2",炫动卡通 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",炫动卡通
 https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
-#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="主线路2",东方财经 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",东方财经
 https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
-#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="主线路2",都市剧场 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",都市剧场
 https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
-#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="主线路2",动漫秀场 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",动漫秀场
 https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
-#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="主线路2",法治天地 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",法治天地
 https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
-#EXTINF:-1,tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="主线路2",金色学堂 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路2",金色学堂
 https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
-#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="主线路2",魅力足球 8M
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="主线路2",魅力足球
 https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="主线路2",凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
