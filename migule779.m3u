@@ -3205,13 +3205,15 @@ http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&live
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育专线",CCTV5-高清(5)
 http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive02020500000205005005005005005005005005005005005005
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育专线",广东体育
+http://chuangye168.gnway.org:56994/g8dyou.php?id=1413
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育专线",广东体育
+http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdty&auth=rinimabi
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育专线",广东体育
 http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育专线",广东体育
-https://wen.serv00.net/ch.php?id=1413
+http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育专线",广东体育
-http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育专线",广东体育
-http://121.51.249.92/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+http://fxhack.f3322.org:8000/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕·体育
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕·体育
