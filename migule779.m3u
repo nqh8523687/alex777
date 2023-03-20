@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===售后提醒===",多设备同时观看必断流,线路多自行测试后收藏观看
 http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===3.13更新日志[持续更新]===",例行维护，优化线路
-http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===3.17更新日志[持续更新]===",例行维护，调整一条HK线路
+http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===3.20更新日志[持续更新]===",例行维护，将解说节目单独分类，继续优化安卓线路
 http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特别通知，如遇到节目播放不畅卡顿问题",换分类换线路即可解决
 http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
@@ -378,161 +378,145 @@ http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="安卓优先线路2[hk线路]",CCTV-4K
 http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="安卓优先线路3",CCTV1
-http://218.29.55.44:808/hls/1/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="安卓优先线路3",CCTV2
-http://218.29.55.44:808/hls/2/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="安卓优先线路3",CCTV3
-http://218.29.55.44:808/hls/3/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="安卓优先线路3",CCTV4
-http://218.29.55.44:808/hls/4/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="安卓优先线路3",CCTV5
-http://218.29.55.44:808/hls/5/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="安卓优先线路3",CCTV5+
+http://118.24.227.124/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="安卓优先线路3",CCTV6
-http://218.29.55.44:808/hls/6/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="安卓优先线路3",CCTV7
-http://218.29.55.44:808/hls/7/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="安卓优先线路3",CCTV8
-http://218.29.55.44:808/hls/8/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="安卓优先线路3",CCTV9
-http://218.29.55.44:808/hls/9/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="安卓优先线路3",CCTV10
-http://218.29.55.44:808/hls/10/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="安卓优先线路3",CCTV11
-http://218.29.55.44:808/hls/11/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="安卓优先线路3",CCTV12
-http://218.29.55.44:808/hls/12/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="安卓优先线路3",CCTV13
-http://218.29.55.44:808/hls/13/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="安卓优先线路3",CCTV14
-http://218.29.55.44:808/hls/14/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="安卓优先线路3",CCTV15
-http://218.29.55.44:808/hls/24/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="安卓优先线路3",CCTV16
-http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="安卓优先线路3",CCTV17
-http://39.184.224.99:9080/newlive/live/hls/17/live.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="安卓优先线路3",湖南卫视
-http://39.184.224.99:9080/newlive/live/hls/18/live.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="安卓优先线路3",东方卫视
-http://39.184.224.99:9080/newlive/live/hls/19/live.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="安卓优先线路3",江苏卫视
-http://39.184.224.99:9080/newlive/live/hls/20/live.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="安卓优先线路3",北京卫视
-http://39.184.224.99:9080/newlive/live/hls/21/live.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="安卓优先线路3",深圳卫视
-http://39.184.224.99:9080/newlive/live/hls/22/live.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="安卓优先线路3",广东卫视
-http://39.184.224.99:9080/newlive/live/hls/23/live.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="安卓优先线路3",天津卫视
-http://39.184.224.99:9080/newlive/live/hls/24/live.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="安卓优先线路3",山东卫视
-http://39.184.224.99:9080/newlive/live/hls/25/live.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="安卓优先线路3",湖北卫视
-http://39.184.224.99:9080/newlive/live/hls/26/live.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="安卓优先线路3",黑龙江卫视
-http://39.184.224.99:9080/newlive/live/hls/27/live.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="安卓优先线路3",重庆卫视
-http://39.184.224.99:9080/newlive/live/hls/28/live.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="安卓优先线路3",辽宁卫视
-http://39.184.224.99:9080/newlive/live/hls/29/live.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="安卓优先线路3",安徽卫视
-http://39.184.224.99:9080/newlive/live/hls/30/live.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="安卓优先线路3",江西卫视
-http://39.184.224.99:9080/newlive/live/hls/31/live.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="安卓优先线路3",河南卫视
-http://39.184.224.99:9080/newlive/live/hls/32/live.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="安卓优先线路3",四川卫视
-http://39.184.224.99:9080/newlive/live/hls/33/live.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="安卓优先线路3",东南卫视
-http://39.184.224.99:9080/newlive/live/hls/34/live.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="安卓优先线路3",广西卫视
-http://39.184.224.99:9080/newlive/live/hls/35/live.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="安卓优先线路3",河北卫视
-http://39.184.224.99:9080/newlive/live/hls/36/live.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="安卓优先线路3",山西卫视
-http://39.184.224.99:9080/newlive/live/hls/37/live.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="安卓优先线路3",陕西卫视
-http://39.184.224.99:9080/newlive/live/hls/38/live.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="安卓优先线路3",贵州卫视
-http://39.184.224.99:9080/newlive/live/hls/39/live.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="安卓优先线路3",青海卫视
-http://39.184.224.99:9080/newlive/live/hls/40/live.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="安卓优先线路3",宁夏卫视
-http://39.184.224.99:9080/newlive/live/hls/41/live.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="安卓优先线路3",甘肃卫视
-http://39.184.224.99:9080/newlive/live/hls/42/live.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="安卓优先线路3",吉林卫视
-http://39.184.224.99:9080/newlive/live/hls/43/live.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="安卓优先线路3",内蒙古卫视
-http://39.184.224.99:9080/newlive/live/hls/44/live.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="安卓优先线路3",新疆卫视
-http://39.184.224.99:9080/newlive/live/hls/45/live.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="安卓优先线路3",西藏卫视
-http://39.184.224.99:9080/newlive/live/hls/46/live.m3u8
+http://118.24.227.124/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="安卓优先线路3",东方卫视
+http://118.24.227.124/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="安卓优先线路3",云南卫视
-http://39.184.224.99:9080/newlive/live/hls/47/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",爱喜剧
-http://39.184.224.99:9080/newlive/live/hls/55/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",爱科幻
-http://39.184.224.99:9080/newlive/live/hls/56/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱喜剧
-http://39.135.126.77:6610/000000001001/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱科幻
-http://39.135.126.77:6610/000000001001/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱院线
-http://39.135.126.77:6610/000000001001/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱浪漫
-http://39.135.126.77:6610/000000001001/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱悬疑
-http://39.135.126.77:6610/000000001001/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱经典
-http://39.135.126.77:6610/000000001001/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱谍战
-http://39.135.126.77:6610/000000001001/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱都市
-http://39.135.126.77:6610/000000001001/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱家庭
-http://39.135.126.77:6610/000000001001/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱青春
-http://39.135.126.77:6610/000000001001/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱江湖
-http://39.135.126.77:6610/000000001001/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱美食
-http://39.135.126.77:6610/000000001001/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱娱乐
-http://39.135.126.77:6610/000000001001/6000000006000130630/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱时尚
-http://39.135.126.77:6610/000000001001/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱科学
-http://39.135.126.77:6610/000000001001/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱军武
-http://39.135.126.77:6610/000000001001/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱幼教
-http://39.135.126.77:6610/000000001001/6000000006000180630/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱猎奇
-http://39.135.126.77:6610/000000001001/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱解密
-http://39.135.126.77:6610/000000001001/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱世界
-http://39.135.126.77:6610/000000001001/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱玩具
-http://39.135.126.77:6610/000000001001/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱电竞
-http://39.135.126.77:6610/000000001001/6000000006000230630/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱赛车
-http://39.135.126.77:6610/000000001001/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱旅行
-http://39.135.126.77:6610/000000001001/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱怀旧
-http://39.135.126.77:6610/000000001001/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱奇谈
-http://39.135.126.77:6610/000000001001/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱动漫
-http://39.135.126.77:6610/000000001001/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱体育
-http://39.135.126.77:6610/000000001001/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",IHOT爱探索
-http://39.135.126.77:6610/000000001001/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=2&channel-id=wasusyt
+http://118.24.227.124/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="安卓优先线路3",北京卫视
+http://118.24.227.124/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="安卓优先线路3",吉林卫视
+http://118.24.227.124/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="安卓优先线路3",四川卫视
+http://118.24.227.124/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="安卓优先线路3",天津卫视
+http://118.24.227.124/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="安卓优先线路3",安徽卫视
+http://118.24.227.124/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="安卓优先线路3",广东卫视
+http://118.24.227.124/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="安卓优先线路3",广西卫视
+http://118.24.227.124/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="安卓优先线路3",江苏卫视
+http://118.24.227.124/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="安卓优先线路3",江西卫视
+http://118.24.227.124/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="安卓优先线路3",河北卫视
+http://118.24.227.124/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="安卓优先线路3",河南卫视
+http://118.24.227.124/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="安卓优先线路3",浙江卫视
+http://118.24.227.124/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="安卓优先线路3",海南卫视
+http://118.24.227.124/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="安卓优先线路3",深圳卫视
+http://118.24.227.124/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="安卓优先线路3",湖北卫视
+http://118.24.227.124/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="安卓优先线路3",湖南卫视
+http://118.24.227.124/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="安卓优先线路3",贵州卫视
+http://118.24.227.124/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="安卓优先线路3",辽宁卫视
+http://118.24.227.124/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="安卓优先线路3",重庆卫视
+http://118.24.227.124/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="安卓优先线路3",黑龙江卫视
+http://118.24.227.124/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="安卓优先线路3",东南卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="安卓优先线路3",东方卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="安卓优先线路3",北京卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="安卓优先线路3",吉林卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="安卓优先线路3",四川卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="安卓优先线路3",天津卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="安卓优先线路3",安徽卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="安卓优先线路3",山西卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="安卓优先线路3",广东卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="安卓优先线路3",广西卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="安卓优先线路3",新疆卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="安卓优先线路3",江苏卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="安卓优先线路3",江西卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="安卓优先线路3",河北卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="安卓优先线路3",河南卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="安卓优先线路3",浙江卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="安卓优先线路3",海南卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="安卓优先线路3",深圳卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="安卓优先线路3",湖北卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="安卓优先线路3",湖南卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="安卓优先线路3",西藏卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="安卓优先线路3",贵州卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="安卓优先线路3",辽宁卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="安卓优先线路3",重庆卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="安卓优先线路3",青海卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="安卓优先线路3",黑龙江卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="安卓优先线路3",三沙卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路3",教育卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="安卓优先线路3",兵团卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="安卓优先线路4",CCTV-1 综合
 http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="安卓优先线路4",CCTV-2 财经
@@ -853,6 +837,125 @@ http://218.29.55.44:808/hls/52/index.m3u8
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="安卓优先线路5",西藏卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="安卓优先线路6",CCTV1
+http://219.142.150.54:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="安卓优先线路6",CCTV2
+http://219.142.150.54:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="安卓优先线路6",CCTV3
+http://219.142.150.54:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="安卓优先线路6",CCTV4
+http://219.142.150.54:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="安卓优先线路6",CCTV5
+http://219.142.150.54:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="安卓优先线路6",CCTV6
+http://219.142.150.54:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="安卓优先线路6",CCTV7
+http://219.142.150.54:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="安卓优先线路6",CCTV8
+http://219.142.150.54:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="安卓优先线路6",CCTV9
+http://219.142.150.54:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="安卓优先线路6",CCTV10
+http://219.142.150.54:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="安卓优先线路6",CCTV11
+http://219.142.150.54:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="安卓优先线路6",CCTV12
+http://219.142.150.54:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="安卓优先线路6",CCTV13
+http://219.142.150.54:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="安卓优先线路6",CCTV14
+http://219.142.150.54:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="安卓优先线路6",CCTV15
+http://219.142.150.54:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="安卓优先线路6",CCTV16
+http://219.142.150.54:9901/tsfile/live/0016_1.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="安卓优先线路6",CCTV17
+http://219.142.150.54:9901/tsfile/live/0017_1.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="安卓优先线路6",CCTV5+
+http://219.142.150.54:9901/tsfile/live/0018_1.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="安卓优先线路6",湖南卫视
+http://219.142.150.54:9901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="安卓优先线路6",浙江卫视
+http://219.142.150.54:9901/tsfile/live/0124_1.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="安卓优先线路6",北京卫视
+http://219.142.150.54:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="安卓优先线路6",江苏卫视
+http://219.142.150.54:9901/tsfile/live/0127_1.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="安卓优先线路6",安徽卫视
+http://219.142.150.54:9901/tsfile/live/0130_1.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="安卓优先线路6",天津卫视
+http://219.142.150.54:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="安卓优先线路6",江西卫视
+http://219.142.150.54:9901/tsfile/live/1024_1.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="安卓优先线路6",辽宁卫视
+http://219.142.150.54:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="安卓优先线路6",山东卫视
+http://219.142.150.54:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="安卓优先线路6",云南卫视
+http://219.142.150.54:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="安卓优先线路6",河南卫视
+http://219.142.150.54:9901/tsfile/live/0139_1.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="安卓优先线路6",黑龙江卫视
+http://219.142.150.54:9901/tsfile/live/0143_1.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="安卓优先线路6",四川卫视
+http://219.142.150.54:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="安卓优先线路6",江西卫视
+http://219.142.150.54:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="安卓优先线路6",贵州卫视
+http://219.142.150.54:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="安卓优先线路6",深圳卫视
+http://219.142.150.54:9901/tsfile/live/0126_1.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="安卓优先线路6",湖北卫视
+http://219.142.150.54:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="安卓优先线路6",东方卫视
+http://219.142.150.54:9901/tsfile/live/0107_1.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="安卓优先线路6",重庆卫视
+http://219.142.150.54:9901/tsfile/live/0142_1.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="安卓优先线路6",东南卫视
+http://219.142.150.54:9901/tsfile/live/0137_1.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="安卓优先线路6",河北卫视
+http://219.142.150.54:9901/tsfile/live/0117_1.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="安卓优先线路6",广东卫视
+http://219.142.150.54:9901/tsfile/live/0125_1.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="安卓优先线路6",广西卫视
+http://219.142.150.54:9901/tsfile/live/0113_1.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="安卓优先线路6",吉林卫视
+http://219.142.150.54:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="安卓优先线路6",陕西卫视
+http://219.142.150.54:9901/tsfile/live/0136_1.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="安卓优先线路6",山西卫视
+http://219.142.150.54:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="安卓优先线路6",内蒙古卫视
+http://219.142.150.54:9901/tsfile/live/0109_1.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="安卓优先线路6",青海卫视
+http://219.142.150.54:9901/tsfile/live/0140_1.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="安卓优先线路6",宁夏卫视
+http://219.142.150.54:9901/tsfile/live/0112_1.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="安卓优先线路6",西藏卫视
+http://219.142.150.54:9901/tsfile/live/0111_1.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="安卓优先线路6",新疆卫视
+http://219.142.150.54:9901/tsfile/live/0110_1.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="安卓优先线路6",甘肃卫视
+http://219.142.150.54:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路6",CETV3
+http://219.142.150.54:9901/tsfile/live/1025_1.m3u8
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="安卓优先线路6",BTV文艺
+http://219.142.150.54:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="安卓优先线路6",BTV科教
+http://219.142.150.54:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="安卓优先线路6",BTV影视
+http://219.142.150.54:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="安卓优先线路6",BTV财经
+http://219.142.150.54:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="安卓优先线路6",快乐垂钓
+http://219.142.150.54:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="安卓优先线路6",BTV生活
+http://219.142.150.54:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路6",BTV青年
+http://219.142.150.54:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="安卓优先线路6",BTV新闻
+http://219.142.150.54:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主线路1",CCTV1
 http://111.19.204.108/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="主线路1",CCTV2
@@ -3014,38 +3117,6 @@ http://epg.112114.xyz/douyu/9360149
 http://epg.112114.xyz/douyu/131977
 #EXTINF:-1 group-title="影视",「录播」 RunningMan?韩综
 http://epg.112114.xyz/douyu/7298973
-#EXTINF:-1 group-title="影视",「解说」大象放映室
-http://live.aptvapp.com/huya.php?id=21277391
-#EXTINF:-1 group-title="影视",「解说」电视剧
-http://live.aptvapp.com/huya.php?id=25018873
-#EXTINF:-1 group-title="影视",「解说」电影?1
-http://live.aptvapp.com/huya.php?id=20289754
-#EXTINF:-1 group-title="影视",「解说」电影?2
-http://live.aptvapp.com/huya.php?id=24983280
-#EXTINF:-1 group-title="影视",「解说」电影?3
-http://live.aptvapp.com/huya.php?id=24396428
-#EXTINF:-1 group-title="影视",「解说」动漫?1
-https://epg.112114.xyz/huya/19757963
-#EXTINF:-1 group-title="影视",「解说」动漫?2
-http://epg.112114.xyz/douyu/9716515
-#EXTINF:-1 group-title="影视",「解说」动漫?3
-http://epg.112114.xyz/douyu/9455567
-#EXTINF:-1 group-title="影视",「解说」科幻Fans
-http://epg.112114.xyz/douyu/3508304
-#EXTINF:-1 group-title="影视",「解说」恐怖电影
-http://live.aptvapp.com/huya.php?id=23419131
-#EXTINF:-1 group-title="影视",「解说」漫威
-http://live.aptvapp.com/huya.php?id=17089779
-#EXTINF:-1 group-title="影视",「解说」美剧
-http://live.aptvapp.com/huya.php?id=20488841
-#EXTINF:-1 group-title="影视",「解说」牛叔
-http://epg.112114.xyz/douyu/2758565
-#EXTINF:-1 group-title="影视",「解说」七龙珠
-http://live.aptvapp.com/huya.php?id=25650806
-#EXTINF:-1 group-title="影视",「解说」奇幻电影
-http://epg.112114.xyz/douyu/3194372
-#EXTINF:-1 group-title="影视",「解说」止戈电影
-http://live.aptvapp.com/huya.php?id=19863777
 #EXTINF:-1 group-title="影视",「录播」 斯诺克?1
 http://live.aptvapp.com/huya.php?id=880214
 #EXTINF:-1 group-title="影视",「录播」 斯诺克?2
@@ -3658,6 +3729,38 @@ http://epg.112114.xyz/huya/11352909
 http://epg.112114.xyz/huya/11352886
 #EXTINF:-1,tvg-id="虎牙电影28" tvg-name="虎牙电影28" tvg-logo="https://epg.112114.xyz/logo/虎牙电影28.png" group-title="影视2",虎牙电影28
 http://epg.112114.xyz/huya/11602044
+#EXTINF:-1 group-title="影视「解说」",「解说」大象放映室
+http://live.aptvapp.com/huya.php?id=21277391
+#EXTINF:-1 group-title="影视「解说」",「解说」电视剧
+http://live.aptvapp.com/huya.php?id=25018873
+#EXTINF:-1 group-title="影视「解说」",「解说」电影?1
+http://live.aptvapp.com/huya.php?id=20289754
+#EXTINF:-1 group-title="影视「解说」",「解说」电影?2
+http://live.aptvapp.com/huya.php?id=24983280
+#EXTINF:-1 group-title="影视「解说」",「解说」电影?3
+http://live.aptvapp.com/huya.php?id=24396428
+#EXTINF:-1 group-title="影视「解说」",「解说」动漫?1
+https://epg.112114.xyz/huya/19757963
+#EXTINF:-1 group-title="影视「解说」",「解说」动漫?2
+http://epg.112114.xyz/douyu/9716515
+#EXTINF:-1 group-title="影视「解说」",「解说」动漫?3
+http://epg.112114.xyz/douyu/9455567
+#EXTINF:-1 group-title="影视「解说」",「解说」科幻Fans
+http://epg.112114.xyz/douyu/3508304
+#EXTINF:-1 group-title="影视「解说」",「解说」恐怖电影
+http://live.aptvapp.com/huya.php?id=23419131
+#EXTINF:-1 group-title="影视「解说」",「解说」漫威
+http://live.aptvapp.com/huya.php?id=17089779
+#EXTINF:-1 group-title="影视「解说」",「解说」美剧
+http://live.aptvapp.com/huya.php?id=20488841
+#EXTINF:-1 group-title="影视「解说」",「解说」牛叔
+http://epg.112114.xyz/douyu/2758565
+#EXTINF:-1 group-title="影视「解说」",「解说」七龙珠
+http://live.aptvapp.com/huya.php?id=25650806
+#EXTINF:-1 group-title="影视「解说」",「解说」奇幻电影
+http://epg.112114.xyz/douyu/3194372
+#EXTINF:-1 group-title="影视「解说」",「解说」止戈电影
+http://live.aptvapp.com/huya.php?id=19863777
 #EXTINF:-1 group-title="少儿",「电影」棉花糖和云朵妈妈
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 #EXTINF:-1 group-title="少儿",「电影」熊出没?变形记
