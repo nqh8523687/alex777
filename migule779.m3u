@@ -2079,7 +2079,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主线路7[支持ipv6优先使用]",中国天气
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="主线路8[支持ipv6优先使用]",凤凰中文「不支持IPV6勿点」
-http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="主线路8[支持ipv6优先使用]",凤凰资讯「不支持IPV6勿点」
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4k" group-title="主线路8[支持ipv6优先使用]",CCTV4K 「不支持IPV6勿点」
