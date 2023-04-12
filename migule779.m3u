@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===售后提醒===",多设备同时观看必断流,线路多自行测试后收藏观看
 http://111.19.204.107/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===3.31更新日志[持续更新]===",例行维护。
-http://120.232.205.38/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===4.5更新日志[持续更新]===",例行维护。
+http://120.232.205.38/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===4.12更新日志[持续更新]===",例行维护。
 http://120.232.205.38/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特别通知，如遇到节目播放不畅卡顿问题",换分类换线路即可解决
 http://120.232.205.38/live.aishang.ctlcdn.com/00000110240303_1/encoder/0/playlist.m3u8?CONTENTID=00000110240303_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -108,189 +108,189 @@ http://120.232.205.38/live.aishang.ctlcdn.com/00000110240134_1/encoder/0/playlis
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="安卓优先线路1",重庆卫视
 http://120.232.205.38/live.aishang.ctlcdn.com/00000110240397_1/encoder/0/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="安卓优先线路2[hk线路]",CCTV-1 综合
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="安卓优先线路2[hk线路]",CCTV-2 财经
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="安卓优先线路2[hk线路]",CCTV-3 综艺
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="安卓优先线路2[hk线路]",CCTV-4 中文国际
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="安卓优先线路2[hk线路]",CCTV-5 体育
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="安卓优先线路2[hk线路]",CCTV-5+ 体育赛事
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="安卓优先线路2[hk线路]",CCTV-6 电影
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv68m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv68m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="安卓优先线路2[hk线路]",CCTV-7 国防军事
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="安卓优先线路2[hk线路]",CCTV-8 电视剧
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv88m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv88m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="安卓优先线路2[hk线路]",CCTV-9 纪录
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="安卓优先线路2[hk线路]",CCTV-10 科教
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="安卓优先线路2[hk线路]",CCTV-11 戏曲
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="安卓优先线路2[hk线路]",CCTV-12 社会与法
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="安卓优先线路2[hk线路]",CCTV-13 新闻
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="安卓优先线路2[hk线路]",CCTV-14 少儿
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="安卓优先线路2[hk线路]",CCTV-15 音乐
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="安卓优先线路2[hk线路]",CCTV-16 奥林匹克
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="安卓优先线路2[hk线路]",CCTV-16 奥林匹克 4K
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="安卓优先线路2[hk线路]",CCTV-17 农业农村
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",CETV-1
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/zgjy1t8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/zgjy1t8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",CETV-4
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="安卓优先线路2[hk线路]",黑龙江卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="安卓优先线路2[hk线路]",吉林卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="安卓优先线路2[hk线路]",辽宁卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="安卓优先线路2[hk线路]",甘肃卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="安卓优先线路2[hk线路]",北京卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",纪实科教
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="安卓优先线路2[hk线路]",卡酷少儿
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="安卓优先线路2[hk线路]",天津卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="安卓优先线路2[hk线路]",河北卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="安卓优先线路2[hk线路]",河南卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="安卓优先线路2[hk线路]",山东卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="安卓优先线路2[hk线路]",江苏卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="安卓优先线路2[hk线路]",东方卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="安卓优先线路2[hk线路]",安徽卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="安卓优先线路2[hk线路]",湖北卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/hubeiws8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/hubeiws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="安卓优先线路2[hk线路]",湖南卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="安卓优先线路2[hk线路]",金鹰纪实
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="安卓优先线路2[hk线路]",快乐垂钓
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="安卓优先线路2[hk线路]",茶频道
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="安卓优先线路2[hk线路]",浙江卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="安卓优先线路2[hk线路]",江西卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="安卓优先线路2[hk线路]",东南卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="安卓优先线路2[hk线路]",四川卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/scws8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/scws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="安卓优先线路2[hk线路]",重庆卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="安卓优先线路2[hk线路]",贵州卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="安卓优先线路2[hk线路]",云南卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="安卓优先线路2[hk线路]",广东卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="安卓优先线路2[hk线路]",深圳卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="安卓优先线路2[hk线路]",广西卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="安卓优先线路2[hk线路]",海南卫视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",上海综合
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="安卓优先线路2[hk线路]",上海都市
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",上海教育
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/setvhd/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/setvhd/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",上海外语
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="安卓优先线路2[hk线路]",东方影视
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="安卓优先线路2[hk线路]",五星体育
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="安卓优先线路2[hk线路]",第一财经
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",东方财经
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="安卓优先线路2[hk线路]",纪实人文
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="安卓优先线路2[hk线路]",七彩戏剧
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",足球频道
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="安卓优先线路2[hk线路]",魅力足球
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="安卓优先线路2[hk线路]",劲爆体育
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="安卓优先线路2[hk线路]",哈哈炫动
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",都市剧场
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="安卓优先线路2[hk线路]",欢笑剧场
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="安卓优先线路2[hk线路]",欢笑剧场 4K
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",动漫秀场
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="安卓优先线路2[hk线路]",生活时尚
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",法治天地
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/fztd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/fztd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",金色学堂
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="安卓优先线路2[hk线路]",游戏风云
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/yxfy8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/yxfy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="安卓优先线路2[hk线路]",新视觉
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",乐游
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",全球大片
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",华语影院
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",星光影院
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",谍战剧场
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",热门剧场
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",热门综艺
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",戏曲精选
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",超级体育
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",健康养生
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",青春动漫
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",宝宝动画
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",汽车世界
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="电竞天堂" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dianjingtiantang.png" group-title="安卓优先线路2[hk线路]",电竞天堂
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",百变课堂
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安卓优先线路2[hk线路]",看天下精选
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="安卓优先线路2[hk线路]",CCTV16-4K
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="安卓优先线路2[hk线路]",CCTV-4K
-http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="安卓优先线路3",CCTV-1 综合
 http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="安卓优先线路3",CCTV-2 财经
@@ -3581,6 +3581,32 @@ http://198.16.64.10:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct=19225&
 http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
 #EXTINF:-1 group-title="少儿",CN卡通频道
 http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+#EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="国内体育",咪咕足球
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
+#EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕篮球" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="国内体育",咪咕篮球
+https://epg.pw/stream/07c38d363b642fea8acdebd157bf3ad61907b37597982d849627f6ad5ba8aadf.m3u8
+#EXTINF:-1 tvg-name="BesTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/141483E8-4B59-4E76-921C-A5FD64636892.jpeg" group-title="国内体育",BesTV-4K
+http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="国内体育",CCTV-16 奥林匹克 4K
+http://192.168.100.1:4567/sxg.php?id=CCTV-16-4K_8000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="国内体育",CCTV5
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="国内体育",CCTV5+
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="国内体育",超级体育
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
+#EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="国内体育",精品体育
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="国内体育",北京体育休闲
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育sxg" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="国内体育",劲爆体育sxg
+http://192.168.100.1:4567/sxg.php?id=lqhxjcHDH265_4000
+#EXTINF:-1,tvg-id="" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="国内体育",五星体育
+http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/wuxingtiyuhd/3000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="国内体育",魅力足球 8M
+https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/4d/ec3add7d2b61dd7d5cf4fdbab8c4fe_180_135.jpg?1674142778" group-title="国内体育", 虎牙斯诺克
+http://192.168.100.1:35455/huya/880214
 #EXTINF:-1 tvg-id="咪咕24小时体育台" tvg-name="咪咕24小时体育台" tvg-logo="https://supcache.miancp.com/data/img.ye23.win/11logo/ty/mg.png" group-title="体育专线",24小时体育台
 http://img.ye23.win/iptv2025ok@gmail.com/2211bc/ws.php?id=24
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4k" tvg-logo="http://107.151.203.111:2209/1logo/ys/CCTV4k.png" group-title="体育专线",CCTV-4K超高清
@@ -3640,7 +3666,7 @@ http://39.137.49.76:8080/PLTV/88888888/224/3221226235/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕·体育
 http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8?
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育专线",五星体育
-http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育专线",五星体育
 http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育专线",五星体育
