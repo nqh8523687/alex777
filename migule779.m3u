@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===售后提醒===",多设备同时观看必断流,线路多自行测试后收藏观看
 http://111.19.204.107/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===4.21更新日志[持续更新]===",例行维护。
-http://120.232.205.38/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===5.2更新日志[持续更新]===",例行维护。
+http://120.232.205.38/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="===5.7更新日志[持续更新]===",五月第一次优化
 http://120.232.205.38/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特别通知，如遇到节目播放不畅卡顿问题",换分类换线路即可解决
 http://120.232.205.38/live.aishang.ctlcdn.com/00000110240303_1/encoder/0/playlist.m3u8?CONTENTID=00000110240303_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -966,7 +966,15 @@ http://180.97.191.72/live.aishang.ctlcdn.com/00000110240134_1/encoder/0/playlist
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="主线路2",重庆卫视
 http://180.97.191.72/live.aishang.ctlcdn.com/00000110240397_1/encoder/0/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="主线路2",凤凰资讯
+http://112.102.214.193:65530/live/fhzx/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="主线路2",凤凰资讯
+http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=300
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="主线路2",凤凰资讯
 http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="主线路2",凤凰卫视
+http://112.102.214.193:65530/live/fhzw/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="主线路2",凤凰卫视
+http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="主线路2",凤凰卫视
 http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主线路3",CCTV1
@@ -1820,7 +1828,11 @@ http://[2409:8087:5011:1020::2b]/180000001002/00000001000000000090000000215608/m
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="主线路8[支持ipv6优先使用]",快乐垂钓「不支持IPV6勿点」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="主线路8[支持ipv6优先使用]",凤凰中文「不支持IPV6勿点」
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226248/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="主线路8[支持ipv6优先使用]",凤凰中文「不支持IPV6勿点」
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="主线路8[支持ipv6优先使用]",凤凰资讯「不支持IPV6勿点」
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226274/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="主线路8[支持ipv6优先使用]",凤凰资讯「不支持IPV6勿点」
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="主线路8[支持ipv6优先使用]",CCTV5+体育赛事「不支持IPV6勿点」
@@ -2519,6 +2531,182 @@ http://112.17.17.15/live.aishang.ctlcdn.com/00000110240136_1/encoder/0/playlist.
 http://112.17.17.15/live.aishang.ctlcdn.com/00000110240134_1/encoder/0/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="8M码率主线路6",重庆卫视
 http://112.17.17.15/live.aishang.ctlcdn.com/00000110240397_1/encoder/0/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="8M码率主线路7",CCTV1 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="8M码率主线路7",CCTV2 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="8M码率主线路7",CCTV3 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="8M码率主线路7",CCTV4 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="8M码率主线路7",CCTV5 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="8M码率主线路7",CCTV5+ 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="8M码率主线路7",CCTV6 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="8M码率主线路7",CCTV7 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="8M码率主线路7",CCTV8 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="8M码率主线路7",CCTV9 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="8M码率主线路7",CCTV10 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="8M码率主线路7",CCTV11 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="8M码率主线路7",CCTV12 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="8M码率主线路7",CCTV13 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="8M码率主线路7",CCTV14 8M
+https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="8M码率主线路7",CCTV15 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="8M码率主线路7",CCTV16 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="8M码率主线路7",CCTV17 8M
+https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="8M码率主线路7",江苏卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="8M码率主线路7",广西卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="8M码率主线路7",四川卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="8M码率主线路7",湖南卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="8M码率主线路7",浙江卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="8M码率主线路7",东方卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="8M码率主线路7",北京卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="8M码率主线路7",天津卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="8M码率主线路7",辽宁卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="8M码率主线路7",安徽卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="8M码率主线路7",黑龙江卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="8M码率主线路7",广东卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="8M码率主线路7",深圳卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="8M码率主线路7",湖北卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="8M码率主线路7",吉林卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="8M码率主线路7",山东卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="8M码率主线路7",江西卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="8M码率主线路7",河南卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="8M码率主线路7",河北卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="8M码率主线路7",甘肃卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="8M码率主线路7",重庆卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="8M码率主线路7",东南卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="8M码率主线路7",云南卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="8M码率主线路7",贵州卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="8M码率主线路7",海南卫视 8M
+https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="8M码率主线路7",欢笑剧场 8M
+https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
+#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="8M码率主线路7",劲爆体育 8M
+https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="8M码率主线路7",快乐垂钓 8M
+https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="8M码率主线路7",金鹰纪实 8M
+https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/戏曲精选.png" group-title="8M码率主线路7",戏曲精选 8M
+https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
+#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="8M码率主线路7",上海第一财经 8M
+https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
+#EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://epg.112114.xyz/logo/上视新闻.png" group-title="8M码率主线路7",上视新闻 8M
+https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
+#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="8M码率主线路7",上海都市 8M
+https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="8M码率主线路7",上海纪实 8M
+https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
+#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="8M码率主线路7",东方影视 8M
+https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="8M码率主线路7",五星体育 8M
+https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1,tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://epg.112114.xyz/logo/上视外语.png" group-title="8M码率主线路7",上视外语 8M
+https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
+#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="8M码率主线路7",七彩戏剧 8M
+https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
+#EXTINF:-1,tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/上海教育台.png" group-title="8M码率主线路7",上海教育 8M
+https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
+#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="8M码率主线路7",全纪实 8M
+https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="8M码率主线路7",生活时尚 8M
+https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
+#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="8M码率主线路7",新视觉 8M
+https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="8M码率主线路7",游戏风云 8M
+https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="8M码率主线路7",热门综艺 8M
+https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
+#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="8M码率主线路7",超级体育 8M
+https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/健康养生.png" group-title="8M码率主线路7",健康养生 8M
+https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百变课堂.png" group-title="8M码率主线路7",百变课堂 8M
+https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="8M码率主线路7",看天下精选 8M
+https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="8M码率主线路7",华语影院 8M
+https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
+#EXTINF:-1,tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="8M码率主线路7",电竞天堂 8M
+https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="8M码率主线路7",青春动漫 8M
+https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="8M码率主线路7",宝宝动画 8M
+https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/星光影院.png" group-title="8M码率主线路7",星光影院 8M
+https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
+#EXTINF:-1,tvg-id="红色谍战剧场" tvg-name="红色谍战剧场" tvg-logo="https://epg.112114.xyz/logo/红色谍战剧场.png" group-title="8M码率主线路7",谍战剧场 8M
+https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/全球大片.png" group-title="8M码率主线路7",全球大片 8M
+https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/热门剧场.png" group-title="8M码率主线路7",热门剧场 8M
+https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+#EXTINF:-1,tvg-id="陶瓷" tvg-name="陶瓷" tvg-logo="https://epg.112114.xyz/logo/陶瓷.png" group-title="8M码率主线路7",陶瓷高清 8M
+https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="8M码率主线路7",中国教育-1 8M
+https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
+#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="8M码率主线路7",中国教育-4 8M
+https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="8M码率主线路7",卡酷少儿 8M
+https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="8M码率主线路7",纪实科教 8M
+https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="8M码率主线路7",茶频道 8M
+https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
+#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="8M码率主线路7",足球高清 8M
+https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="8M码率主线路7",炫动卡通 8M
+https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="8M码率主线路7",东方财经 8M
+https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="8M码率主线路7",都市剧场 8M
+https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="8M码率主线路7",动漫秀场 8M
+https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="8M码率主线路7",法治天地 8M
+https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
+#EXTINF:-1,tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="8M码率主线路7",金色学堂 8M
+https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="8M码率主线路7",魅力足球 8M
+https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 #EXTINF:-1 group-title="影视",「动画」茶啊二中
 https://epg.112114.xyz/huya/11213191
 #EXTINF:-1 group-title="影视",「动画」王者峡谷生活
@@ -3393,9 +3581,9 @@ http://198.16.64.10:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct=19225&
 http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
 #EXTINF:-1 group-title="少儿",CN卡通频道
 http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
-#EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="国内体育",咪咕足球
+#EXTINF:-1 tvg-id="米古足球" tvg-name="米古足球" tvg-logo="https://live.fanmingming.com/tv/米古体育.png" group-title="国内体育",米古足球
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
-#EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕篮球" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="国内体育",咪咕篮球
+#EXTINF:-1 tvg-id="米古足球" tvg-name="米古篮球" tvg-logo="https://live.fanmingming.com/tv/米古体育.png" group-title="国内体育",米古篮球
 https://epg.pw/stream/07c38d363b642fea8acdebd157bf3ad61907b37597982d849627f6ad5ba8aadf.m3u8
 #EXTINF:-1 tvg-name="BesTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/141483E8-4B59-4E76-921C-A5FD64636892.jpeg" group-title="国内体育",BesTV-4K
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
@@ -3417,7 +3605,7 @@ http://192.168.100.1:4567/sxg.php?id=lqhxjcHDH265_4000
 http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/wuxingtiyuhd/3000/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/4d/ec3add7d2b61dd7d5cf4fdbab8c4fe_180_135.jpg?1674142778" group-title="国内体育", 虎牙斯诺克
 http://192.168.100.1:35455/huya/880214
-#EXTINF:-1 tvg-id="咪咕24小时体育台" tvg-name="咪咕24小时体育台" tvg-logo="https://supcache.miancp.com/data/img.ye23.win/11logo/ty/mg.png" group-title="体育专线",24小时体育台
+#EXTINF:-1 tvg-id="米古24小时体育台" tvg-name="米古24小时体育台" tvg-logo="https://supcache.miancp.com/data/img.ye23.win/11logo/ty/mg.png" group-title="体育专线",24小时体育台
 http://img.ye23.win/iptv2025ok@gmail.com/2211bc/ws.php?id=24
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4k" tvg-logo="http://107.151.203.111:2209/1logo/ys/CCTV4k.png" group-title="体育专线",CCTV-4K超高清
 http://hls.ye23.vip/dl/4k.cctv.php
@@ -3433,11 +3621,11 @@ http://159.75.85.63:8280/cctv4k.php
 http://111.29.9.37:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="体育专线",CCTV16-4K-电信
 http://live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕体育-4K-HLG源
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",米古体育-4K-HLG源
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕体育-4K-HLG源-2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",米古体育-4K-HLG源-2
 http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕体育-4K-HLG源-3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",米古体育-4K-HLG源-3
 http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育专线",CCTV5-高清(1)
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
@@ -3469,11 +3657,11 @@ http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育专线",广东体育
 http://fxhack.f3322.org:8000/udp/239.77.0.168:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕·体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",米古·体育
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕·体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",米古·体育
 http://39.137.49.76:8080/PLTV/88888888/224/3221226235/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕·体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",米古·体育
 http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8?
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育专线",五星体育
 http://111.123.59.155/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
@@ -3489,396 +3677,116 @@ http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/ssty/
 https://epg.pm/stream/bcf11d27e2ce62a0b2dca5d8c81e2d6f66c725fe2e5b6eb82c2897074e4b8f7d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",SiTV新视觉
 https://epg.pm/stream/66656cb6a3d1a271b3be81da3f56c7f2a739a0b525a66039ae85a4ca491db310.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕4K-01
-http://117.136.156.39/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕4K-02
-http://117.136.156.35/000000001000/3000000010000015686/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕4K-01
-http://39.135.7.132:6610/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕4K-02
-http://39.135.134.67/000000001000/3000000010000015686/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA01
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000003915&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA01
-http://39.135.7.132:6610/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA01
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000003915&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA01
-http://117.136.156.35/000000001000/3000000010000003915/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA02
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000027691&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA02
-http://39.135.7.132:6610/000000001000/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA02
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000027691&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA02
-http://117.136.156.35/000000001000/3000000010000027691/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA03
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000015560&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA03
-http://39.135.7.132:6610/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA03
-http://117.136.156.35/000000001000/3000000010000015560/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA03
-http://221.179.217.76/PLTV/88888888/224/3221226374/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA04
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000011297&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA04
-http://39.135.7.132:6610/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA04
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000011297&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA04
-http://117.136.156.35/000000001000/3000000010000011297/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA04
-http://221.179.217.76/PLTV/88888888/224/3221226390/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA05
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000006077&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA05
-http://39.135.7.132:6610/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA05
-http://117.136.156.35/000000001000/3000000010000006077/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA06
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000000097&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA06
-http://39.135.7.132:6610/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA06
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000000097&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA06
-http://117.136.156.35/000000001000/3000000010000000097/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA06
-http://221.179.217.76/PLTV/88888888/224/3221226397/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA07
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000002809&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA07
-http://39.135.7.132:6610/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA07
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000002809&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA07
-http://117.136.156.35/000000001000/3000000010000002809/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",CBA07
-http://221.179.217.76/PLTV/88888888/224/3221226398/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA01
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000005969&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA01
-http://39.135.7.132:6610/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA01
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000001000005969&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA01
-http://117.136.156.35/000000001000/3000000001000005969/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA01
-http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA02
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000007218&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA02
-http://39.135.7.132:6610/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA02
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000001000007218&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA02
-http://117.136.156.35/000000001000/3000000001000007218/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA02
-http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA02
-http://221.179.217.76/PLTV/88888888/224/3221226379/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA03
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000008001&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA03
-http://39.135.7.132:6610/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA03
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000001000008001&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA03
-http://117.136.156.35/000000001000/3000000001000008001/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA03
-http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA04
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000008176&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA04
-http://39.135.7.132:6610/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA04
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000001000008176&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA04
-http://117.136.156.39/000000001000/3000000001000008176/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA04
-http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA05
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000010129&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA05
-http://39.135.7.132:6610/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA05
-http://117.136.156.35/000000001000/3000000001000010129/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA06
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000010948&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA06
-http://39.135.7.132:6610/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA06
-http://117.136.156.35/000000001000/3000000001000010948/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA06
-http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA07
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000012558&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA07
-http://39.135.7.132:6610/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA07
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000012558&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA07
-http://117.136.156.35/000000001000/3000000010000012558/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA08
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000025380&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA08
-http://39.135.7.132:6610/000000001000/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA08
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000025380&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA08
-http://117.136.156.35/000000001000/3000000010000025380/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA08
-http://39.135.134.67/000000001000/3000000010000025380/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA08
-http://221.179.217.76/PLTV/88888888/224/3221226387/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA09
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000031494&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA09
-http://39.135.7.132:6610/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA09
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000001000031494&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",NBA09
-http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕01
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000002019&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕01
-http://39.135.7.132:6610/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕01
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000002019&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕01
-http://117.136.156.35/000000001000/3000000010000002019/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕02
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000004193&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕02
-http://39.135.7.132:6610/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕02
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000004193&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕02
-http://117.136.156.35/000000001000/3000000010000004193/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕03
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000005308&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕03
-http://39.135.7.132:6610/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕03
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000001000005308&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕03
-http://117.136.156.35/000000001000/3000000001000005308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕03
-http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕04
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000005837&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕04
-http://39.135.7.132:6610/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕04
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000005837&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕04
-http://117.136.156.35/000000001000/3000000010000005837/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕05
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000006658&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕05
-http://39.135.7.132:6610/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕05
-http://117.136.156.35/000000001000/3000000010000006658/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕06
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000008379&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕06
-http://39.135.7.132:6610/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕06
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000001000008379&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕06
-http://117.136.156.35/000000001000/3000000001000008379/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕06
-http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕06
-http://221.179.217.76/PLTV/88888888/224/3221226373/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕01
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000002032&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕01
-http://39.135.7.132:6610/000000001000/3000000010000002032/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002032&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕01
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000002032&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕02
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000006944&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕02
-http://39.135.7.132:6610/000000001000/3000000010000006944/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006944&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕03
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000007692&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕03
-http://39.135.7.132:6610/000000001000/3000000010000007692/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000007692&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕03
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000007692&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕04
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000009788&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕04
-http://39.135.7.132:6610/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕04
-http://117.136.156.35/000000001000/3000000010000009788/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕05
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000010833&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕05
-http://39.135.7.132:6610/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕05
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000010833&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕05
-http://117.136.156.35/000000001000/3000000010000010833/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕05
-http://39.135.134.67/000000001000/3000000010000010833/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕06
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000011112&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕06
-http://39.135.7.132:6610/000000001000/3000000010000011112/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011112&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕06
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000011112&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕07
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000011518&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕07
-http://39.135.7.132:6610/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕07
-http://117.136.156.35/000000001000/3000000010000011518/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕08
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000011763&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕08
-http://39.135.7.132:6610/000000001000/3000000010000011763/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011763&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕08
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000011763&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕09
-http://39.135.7.132:6610/000000001000/3000000010000011873/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011873&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕09
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000011873&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕09
-http://117.136.156.35/000000001000/3000000010000011873/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕10
-http://39.135.7.132:6610/000000001000/3000000010000012398/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012398&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕10
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000012398&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕11
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000012450&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕11
-http://39.135.7.132:6610/000000001000/3000000010000012450/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012450&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕11
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000012450&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕12
-http://39.135.7.132:6610/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕12
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000012616&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕12
-http://117.136.156.35/000000001000/3000000010000012616/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕13
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000015470&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕13
-http://39.135.7.132:6610/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕13
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000015470&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕13
-http://117.136.156.35/000000001000/3000000010000015470/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕14
-http://39.135.7.132:6610/000000001000/3000000010000017389/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017389&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕14
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000017389&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕15
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000017678&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕15
-http://39.135.7.132:6610/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕15
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000017678&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕15
-http://117.136.156.35/000000001000/3000000010000017678/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕16
-http://39.135.7.132:6610/000000001000/3000000010000017997/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017997&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕16
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000017997&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕17
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000019380&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕17
-http://39.135.7.132:6610/000000001000/3000000010000019380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019380&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕17
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000019380&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕18
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000019839&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕18
-http://39.135.7.132:6610/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕18
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000019839&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕18
-http://117.136.156.35/000000001000/3000000010000019839/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕18
-http://39.135.134.67/000000001000/3000000010000019839/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕19
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000020168&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕19
-http://39.135.7.132:6610/000000001000/3000000010000020168/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000020168&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕19
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000020168&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕20
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000021904&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕20
-http://39.135.7.132:6610/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕20
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000021904&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕20
-http://117.136.156.35/000000001000/3000000010000021904/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕21
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000023434&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕21
-http://39.135.7.132:6610/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕21
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000023434&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕21
-http://117.136.156.35/000000001000/3000000010000023434/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕22
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000024205&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕22
-http://39.135.7.132:6610/000000001000/3000000010000024205/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000024205&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕22
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000024205&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕23
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000024691&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕23
-http://39.135.7.132:6610/000000001000/3000000010000024691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000024691&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕23
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000024691&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕25
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000025943&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕25
-http://39.135.7.132:6610/000000001000/3000000010000025943/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025943&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕26
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000026778&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕26
-http://39.135.7.132:6610/000000001000/3000000001000026778/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000026778&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕26
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000001000026778&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕26
-http://117.136.156.35/000000001000/3000000001000026778/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕26
-http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕27
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000027318&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕27
-http://39.135.7.132:6610/000000001000/3000000010000027318/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027318&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕27
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000027318&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕28
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000027638&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕28
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000027638&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕29
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000028638&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕29
-http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕31
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000031669&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕31
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000031669&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕31
-http://117.136.156.35/000000001000/3000000010000031669/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕32
-http://117.169.124.149:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000032106&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕32
-http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=3000000010000032106&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育专线",咪咕32
-http://117.136.156.35/000000001000/3000000010000032106/index.m3u8
+#EXTINF:-1 group-title="体育专线",米古直播-4K
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-3K
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-1[有赛事时自行寻找节目线路]
+http://39.136.33.66:6610/000000001001/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-2
+http://39.136.33.66:6610/000000001001/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-3
+http://39.136.33.66:6610/000000001001/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-4
+http://39.136.33.66:6610/000000001001/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-5
+http://39.136.33.66:6610/000000001001/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-6
+http://39.136.33.66:6610/000000001001/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-7
+http://39.136.33.66:6610/000000001001/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-8
+http://39.136.33.66:6610/000000001001/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-9
+http://39.136.33.66:6610/000000001001/3000000001000026778/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000026778&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-10
+http://39.136.33.66:6610/000000001001/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-11
+http://39.136.33.66:6610/000000001001/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-12
+http://39.136.33.66:6610/000000001001/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-13
+http://39.136.33.66:6610/000000001001/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-14
+http://39.136.33.66:6610/000000001001/3000000010000002032/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002032&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-15
+http://39.136.33.66:6610/000000001001/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-16
+http://39.136.33.66:6610/000000001001/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-17
+http://39.136.33.66:6610/000000001001/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-18
+http://39.136.33.66:6610/000000001001/3000000010000004464/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004464&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-19
+http://39.136.33.66:6610/000000001001/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-20
+http://39.136.33.66:6610/000000001001/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-21
+http://39.136.33.66:6610/000000001001/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-22
+http://39.136.33.66:6610/000000001001/3000000010000006944/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006944&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-23
+http://39.136.33.66:6610/000000001001/3000000010000007692/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000007692&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-24
+http://39.136.33.66:6610/000000001001/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-25
+http://39.136.33.66:6610/000000001001/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-26
+http://39.136.33.66:6610/000000001001/3000000010000011112/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011112&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-27
+http://39.136.33.66:6610/000000001001/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-28
+http://39.136.33.66:6610/000000001001/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-29
+http://39.136.33.66:6610/000000001001/3000000010000011763/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011763&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-30
+http://39.136.33.66:6610/000000001001/3000000010000011873/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011873&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-31
+http://39.136.33.66:6610/000000001001/3000000010000012398/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012398&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-32
+http://39.136.33.66:6610/000000001001/3000000010000012450/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012450&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-33
+http://39.136.33.66:6610/000000001001/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-34
+http://39.136.33.66:6610/000000001001/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-35
+http://39.136.33.66:6610/000000001001/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-36
+http://39.136.33.66:6610/000000001001/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-37
+http://39.136.33.66:6610/000000001001/3000000010000017389/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017389&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-38
+http://39.136.33.66:6610/000000001001/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-39
+http://39.136.33.66:6610/000000001001/3000000010000017997/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017997&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-40
+http://39.136.33.66:6610/000000001001/3000000010000019380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019380&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-41
+http://39.136.33.66:6610/000000001001/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-42
+http://39.136.33.66:6610/000000001001/3000000010000020168/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000020168&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-43
+http://39.136.33.66:6610/000000001001/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-44
+http://39.136.33.66:6610/000000001001/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-45
+http://39.136.33.66:6610/000000001001/3000000010000024205/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000024205&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-46
+http://39.136.33.66:6610/000000001001/3000000010000024691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000024691&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-47
+http://39.136.33.66:6610/000000001001/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-48
+http://39.136.33.66:6610/000000001001/3000000010000025943/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025943&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-49
+http://39.136.33.66:6610/000000001001/3000000010000027318/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027318&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-50
+http://39.136.33.66:6610/000000001001/3000000010000027638/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027638&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-51
+http://39.136.33.66:6610/000000001001/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-52
+http://39.136.33.66:6610/000000001001/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育专线",米古直播-53
+http://39.136.33.66:6610/000000001001/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场4K
@@ -3920,11 +3828,11 @@ http://159.75.85.63:35455/huya/28260962
 http://159.75.85.63:35455/douyu/3916618
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",斗鱼4K电影
 http://159.75.85.63:35455/douyu/9249162
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",咪咕体育-4K-HLG源
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",米古体育-4K-HLG源
 http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",咪咕体育-4K-HLG源-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",米古体育-4K-HLG源-1
 http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",咪咕体育-4K-HLG源-2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",米古体育-4K-HLG源-2
 http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱自然
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -4058,131 +3966,45 @@ http://epg.112114.xyz/douyu/4728410
 http://epg.112114.xyz/douyu/9670906
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",歌声天籁
 http://epg.112114.xyz/douyu/9548612
-#EXTINF:-1 group-title="地区",「安徽」安徽导视
-http://agsj.appcoo.com:8000/agsj/test/index.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「安徽」安徽经济生活
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「安徽」安徽影院
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「安徽」安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」安庆公共
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-aqggpd/1.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」安庆教育
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-aqhmx-jy/1.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」亳州农村
-http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」亳州新闻
-http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「安徽」池州公共
 http://cm.wshls.homecdn.com/live/4abdf.flv?zanhd
-#EXTINF:-1 group-title="地区",「安徽」滁州公共
-http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」滁州科教
-http://live.cztv.cc:85/live/sjpd.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」滁州新闻综合
-http://live.cztv.cc:85/live/xwpd.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」枞阳综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-zystv/1.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」枞阳综合
-http://112.27.89.235:8008/out_1/index.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」当涂新闻综合
-http://newvideo.dangtutv.cn:8278/dt1/playlist.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」定远综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-czdy1pd/1.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」东至新闻综合
-http://223.247.33.124:1935/live/zonghe/playlist.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」东至新闻综合
-http://120.210.216.73:8080/ysten-business/live/HD12-1080P-czdzzh/1.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」肥东经济生活
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-fdjjsh/1.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「安徽」肥西综合
 http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」肥西综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-fxxwzh/1.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」凤台文化生活
-http://60.175.115.119:1935/live/wenhua/playlist.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」凤台综合
-rtmp://60.175.115.119:1935/live/zonghe?zanhd
-#EXTINF:-1 group-title="地区",「安徽」凤台综合
-http://111.39.175.241:8088/live/fengtai1.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」凤台综合
-http://60.175.115.119:1935/live/zonghe/playlist.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」阜南新闻综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-fnxwzh/1.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「安徽」固镇新闻
 http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「安徽」淮南公共
 http://stream.0554news.com/hnds2/sd/live.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「安徽」淮南新闻综合
 http://stream.0554news.com/hnds1/sd/live.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」黄山公共生活
-http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」黄山新闻综合
-http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」霍邱新闻综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-huoqiu/1.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「安徽」霍山综合
 http://ahhsdb.chinashadt.com:1936/live/stream:ahws.stream/playlist.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「安徽」金寨综合
 http://112.26.80.214:1935/live/xinwen/playlist.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」临泉新闻
-http://120.210.216.73:8080/ysten-business/live/SD20-576P-linquan/1.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「安徽」灵璧综合
 http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」六安公共
-http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」六安新闻综合
-http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「安徽」潜山新闻综合
 http://60.171.171.101:8278/rtmp_export/video22.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」全椒综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-qjzhpd/1.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」歙县综合
-https://stream.ahwanyun.cn/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「安徽」歙县综合频道
 http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」石台综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-czst/1.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」石台综合
-http://111.38.104.24:8090/hls/main0/playlist.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」宿松新闻综合
-http://112.30.194.221:20080/live/a8fd37c471fa46e18ec17b6ce4730eb7/hls.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「安徽」宿州公共
 http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「安徽」宿州科教
 http://live.ahsz.tv/video/s10001-kxjy/index.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」宿州新闻综合
-http://live.ahsz.tv/video/s10001-szzh/index.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」湾沚区新闻综合
-http://60.169.39.215:8090/live/ch0.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」涡阳新闻综合
-http://111.39.71.77:8099/live/one/playlist.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」休宁新闻综合
-http://120.210.216.73:8080/ysten-business/live/hsxndst/1.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」黟县综合
-http://app.yixianfabu.com:1935/live/yixian/playlist.m3u8?zanhd
-#EXTINF:-1 group-title="地区",「安徽」黟县综合
-http://114.104.147.15:1935/live/yixian/playlist.m3u8?zanhd
 #EXTINF:-1 group-title="地区",「北京」北京冬奥纪实
 http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8?zbeid
-#EXTINF:-1 group-title="地区",「北京」北京冬奥纪实
-http://39.134.65.164/PLTV/88888888/224/3221225670/1.m3u8?zbeid
-#EXTINF:-1 group-title="地区",「北京」北京冬奥纪实
-http://39.135.138.60:18890/PLTV/88888888/224/3221225675/index.m3u8?zbeid
 #EXTINF:-1 group-title="地区",「北京」北京纪实
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
+http://39.135.138.60:18890/PLTV/88888888/224/3221225675/index.m3u8?zbeid
 #EXTINF:-1 group-title="地区",「北京」北京纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 #EXTINF:-1 group-title="地区",「北京」北京纪实
 http://39.137.49.76:8080/PLTV/88888888/224/3221225676/index.m3u8?
-#EXTINF:-1 group-title="地区",「北京」北京纪实
-http://ncyd.jilu8.cn/PLTV/88888910/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="地区",「北京」北京纪实
-https://epg.pm/stream/bbba75686985a3cb66966e2edc520a77fecb841ba195ac8cd3cee9c271ac7694.m3u8
-#EXTINF:-1 group-title="地区",「北京」北京纪实
-http://39.134.65.164/PLTV/88888888/224/3221225670/1.m3u8
-#EXTINF:-1 group-title="地区",「北京」北京卡酷少儿
+#EXTINF:-1 group-title="地区",「北京」卡酷少儿
 http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
 #EXTINF:-1 group-title="地区",「北京」北京通州
 http://pull.dayuntongzhou.com/live/tztv.m3u8?zbeid
@@ -4198,12 +4020,6 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid
 http://222.178.181.121:12034/beibei01.m3u8?zzhongqd
 #EXTINF:-1 group-title="地区",「重庆」璧山综合
 http://222.179.42.129:8181/hls1.m3u8?zzhongqd
-#EXTINF:-1 group-title="地区",「重庆」重庆电信IPTV导视
-https://zbxclive.cbg.cn/app_2/ls_105.stream/chunklist.m3u8?zzhongqd
-#EXTINF:-1 group-title="地区",「重庆」重庆联通IPTV导视
-https://zbxclive.cbg.cn/app_2/ls_106.stream/chunklist.m3u8?zzhongqd
-#EXTINF:-1 group-title="地区",「重庆」重庆汽摩
-http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225506/2/index.m3u8?fmt=ts2hls?zzhongqd
 #EXTINF:-1 group-title="地区",「重庆」大足综合
 http://218.201.85.71:3170/m3u8?zzhongqd
 #EXTINF:-1 group-title="地区",「重庆」垫江综合
@@ -4226,16 +4042,8 @@ http://218.106.152.196/lsdream/2LacKP6/1024/live.m3u8?zfud
 https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
 #EXTINF:-1 group-title="地区",「福建」将乐综合
 http://218.106.152.196/lsdream/9nbYeUc/1000/live.m3u8?fujian
-#EXTINF:-1 group-title="地区",「福建」龙岩公共频道
-http://live.lytv.net.cn/ggpd/sd/live.m3u8?zfud
-#EXTINF:-1 group-title="地区",「福建」龙岩新闻综合
-http://live.lytv.net.cn/zhpwd/hd/live.m3u8?zfud
 #EXTINF:-1 group-title="地区",「福建」宁化电视一套
 http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
-#EXTINF:-1 group-title="地区",「福建」三明公共频道
-http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
-#EXTINF:-1 group-title="地区",「福建」三明新闻综合
-http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
 #EXTINF:-1 group-title="地区",「福建」三明新闻综合
 http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
 #EXTINF:-1 group-title="地区",「福建」厦门卫视
@@ -4246,8 +4054,6 @@ http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-xiamenstv/1.m
 http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8?zfud
 #EXTINF:-1 group-title="地区",「福建」霞浦综合频道
 http://218.106.152.196/lsdream/G7wCyZW/4000/live.m3u8?zfud
-#EXTINF:-1 group-title="地区",「福建」新罗电视一套
-http://stream.lyxltv.com/xltv/sd/live.m3u8?zfud
 #EXTINF:-1 group-title="地区",「福建」永安综合频道
 http://218.106.152.196/lsdream/x6FnPrm/2000/live.m3u8?fujian
 #EXTINF:-1 group-title="地区",「福建」云霄综合
@@ -4266,49 +4072,29 @@ http://stream.gsjqtv.com/pd2/sd/live.m3u8?zgand
 http://stream.gsjqtv.com/pd1/sd/live.m3u8?zgand
 #EXTINF:-1 group-title="地区",「甘肃」崆峒综合
 http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
-#EXTINF:-1 group-title="地区",「甘肃」岷县综合
-http://play.kankanlive.com/live/1614311581479927.m3u8?zgand
-#EXTINF:-1 group-title="地区",「甘肃」西峰综合
-http://pili-live-rtmp.luan2.hfmt.net/luan2/xifeng/123456.m3u8?zgand
-#EXTINF:-1 group-title="地区",「数字」点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8?zguangd
 #EXTINF:-1 group-title="地区",「广东」广东文化
 https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 #EXTINF:-1 group-title="地区",「广东」广东文化
 https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
-#EXTINF:-1 group-title="地区",「广东」广东新闻
-http://mmitv.top/pltv/itouchtv.php?id=gdxw&pk=1186
-#EXTINF:-1 group-title="地区",「广东」广东影视
-http://mmitv.top/pltv/itouchtv.php?id=gdys&pk=1199
 #EXTINF:-1 group-title="地区",「广东」广东珠江
-http://live.cooltv.top/tv/good.php?id=gdzhujiangHD_7500
-#EXTINF:-1 group-title="地区",「广东」广东珠江
-http://fxhack.f3322.org:8000/udp/239.77.0.01:5146#http://fxhack.f3322.org:8000/udp/239.77.0.114:5146
-#EXTINF:-1 group-title="地区",「广东」广东珠江
-http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
+http://xjayrf.eatuo.com:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 group-title="地区",「广东」广州综合
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
-#EXTINF:-1 group-title="地区",
+#EXTINF:-1 group-title="地区",「广东」广州南国都市
 https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1 group-title="地区",「广东」广州南国都市
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
-#EXTINF:-1 group-title="地区",「广东」广州南国都市
-http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225565/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="地区",「广东」清新综合
 http://hls.wiseqx.com/live/qxzh.m3u8?zguangd
 #EXTINF:-1 group-title="地区",「广东」韶关公共
 https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
 #EXTINF:-1 group-title="地区",「广东」韶关综合
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
-#EXTINF:-1 group-title="地区",「广东」深圳财经生活
-http://218.17.216.102:9901/tsfile/live/1089_1.m3u8
 #EXTINF:-1 group-title="地区",「广东」深圳电视剧
 http://218.17.216.102:9901/tsfile/live/1057_1.m3u8
 #EXTINF:-1 group-title="地区",「广东」深圳东部
 https://lglivepull.sznews.com/live/2646.m3u8?zguangd
-#EXTINF:-1 group-title="地区",「广东」生活
-http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8?zguangd
-#EXTINF:-1 group-title="地区",
+#EXTINF:-1 group-title="地区",「广东」 绿色生活
 https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 #EXTINF:-1 group-title="地区",「广东」 韶关综合台
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
@@ -4324,58 +4110,10 @@ https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8?zguangd
 https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8?zguangd
 #EXTINF:-1 group-title="地区",「广东」阳江综合
 https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8?zguangd
-#EXTINF:-1 group-title="地区",「广东」云浮公共
-https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfgg.m3u8?zguangd
-#EXTINF:-1 group-title="地区",「广东」云浮综合
-https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfzh.m3u8?zguangd
-#EXTINF:-1 group-title="地区",「广西」巴马综合
-https://cdn.gdlive.gdmain.com/live/5ky6zx60.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」北海经济科教
-https://cdn.gdlive.gdmain.com/live/lnyxz495.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」北海图文
-http://njgdmm-wshls.homecdn.com/live/4e8a2.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」北海新闻综合
-https://cdn.gdlive.gdmain.com/live/lg36zk25.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」宾阳综合
-https://live-cdn.gxxw.com/gx/binyang/index.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」宾阳综合
-https://cdn.gdlive.gdmain.com/live/5zzby3v5.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」岑溪综合
-https://cdn.gdlive.gdmain.com/live/02kzy3y0.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」崇左综合
-https://cdn.gdlive.gdmain.com/live/lxzydpo5.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」都安综合
-https://cdn.gdlive.gdmain.com/live/lo2xza25.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」都安综合
-https://live-cdn.gxxw.com/gx/duan/index.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」灌阳新闻综合
-https://cdn.gdlive.gdmain.com/live/02kzyoy0.m3u8?zguangxd
 #EXTINF:-1 group-title="地区",「广西」贺州综合
 http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
-#EXTINF:-1 group-title="地区",「广西」靖西综合
-https://cdn.gdlive.gdmain.com/live/53xzybv5.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」来宾综合
-https://cdn.gdlive.gdmain.com/live/0myxra90.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」乐业综合
-https://cdn.gdlive.gdmain.com/live/lg36za25.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」乐业综合
-https://live-cdn.gxxw.com/gx/leye/index.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」灵川综合
-https://cdn.gdlive.gdmain.com/live/lbzx2a8l.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」龙州综合
-https://live-cdn.gxxw.com/gx/longzhou/index.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」龙州综合
-https://cdn.gdlive.gdmain.com/live/5pyxdeb5.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」隆安新闻综合
-http://hls.nntv.cn/nnlive/LATV_A.m3u8?zguangxd
 #EXTINF:-1 group-title="地区",「广西」罗城综合
 http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」马山新闻综合
-http://hls.nntv.cn/nnlive/MSTV_A.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」那坡综合
-https://cdn.gdlive.gdmain.com/live/l7bxg260.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」南宁都市生活
-rtmp://rtmp.nntv.cn/nnlive/NNTV_METRO_A?zguangxd
 #EXTINF:-1 group-title="地区",「广西」南宁都市生活
 http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8?zguangxd
 #EXTINF:-1 group-title="地区",「广西」南宁公共
@@ -4383,59 +4121,19 @@ http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8?zguangxd
 #EXTINF:-1 group-title="地区",「广西」南宁新闻综合
 http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
 #EXTINF:-1 group-title="地区",「广西」南宁影娱乐
-rtmp://rtmp.nntv.cn/nnlive/NNTV_VOD_A?zguangxd
-#EXTINF:-1 group-title="地区",「广西」南宁影娱乐
 http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」凭祥综合
-https://cdn.gdlive.gdmain.com/live/0myxr890.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」凭祥综合
-https://live-cdn.gxxw.com/gx/pingxiang/index.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」融水综合
-https://live-cdn.gxxw.com/gx/rongshui/index.m3u8
-#EXTINF:-1 group-title="地区",「广西」融水综合
-https://cdn.gdlive.gdmain.com/live/lnyxza95.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」上林电视台
-http://hls.nntv.cn/nnlive/SLTV_A.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」天等综合
-https://cdn.gdlive.gdmain.com/live/51g1ap75.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」田东综合
-https://live-cdn.gxxw.com/gx/tiandong/index.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」田东综合
-https://cdn.gdlive.gdmain.com/live/5aj79zp5.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」田阳综合
-https://cdn.gdlive.gdmain.com/live/0yzvdpr5.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」西林综合
-https://cdn.gdlive.gdmain.com/live/lj16xrkl.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」昭平综合
-https://cdn.gdlive.gdmain.com/live/53xzyvv5.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」昭平综合
-https://live-cdn.gxxw.com/gx/zhaoping/index.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「广西」资源电视台
-https://cdn.gdlive.gdmain.com/live/09oz9ba0.m3u8?zguangxd
-#EXTINF:-1 group-title="地区",「贵州」安顺新闻
-https://player.juyun.tv/camera/64413134.m3u8?zguizd
-#EXTINF:-1 group-title="地区",「贵州」罗甸综合
-http://pili-live-rtmp.210.i2863.com/i2863-210/live_210_050252.m3u8
-#EXTINF:-1 group-title="地区",「贵州」湄潭综合
-http://p2.weizan.cn/1635496647/663562647402642026/live.m3u8?zguizd
 #EXTINF:-1 group-title="地区",「贵州」松新闻
 http://live.strmtzx.cn/stxw/sd/live.m3u8?zguizd
-#EXTINF:-1 group-title="地区",「贵州」桃综艺
-http://live.strmtzx.cn/stzy/sd/live.m3u8?zguizd
 #EXTINF:-1 group-title="地区",「河北」昌黎综合频道
 https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
 #EXTINF:-1 group-title="地区",「河北」昌黎综合频道
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 group-title="地区",「河北」邯郸公共频道
-http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8?zhebd
 #EXTINF:-1 group-title="地区",「河北」邯郸公共频道
 https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
 #EXTINF:-1 group-title="地区",「河北」邯郸公共频道
 https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 #EXTINF:-1 group-title="地区",「河北」邯郸科技教育
 https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
-#EXTINF:-1 group-title="地区",「河北」邯郸科技教育
-http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8?zhebd
 #EXTINF:-1 group-title="地区",「河北」邯郸科技教育
 https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
 #EXTINF:-1 group-title="地区",「河北」河北都市
@@ -4462,8 +4160,6 @@ http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8?zhebd
 http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
 #EXTINF:-1 group-title="地区",「河南」邓州新闻
 http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?zhend
-#EXTINF:-1 group-title="地区",「河南」调解剧场
-http://39.164.218.68:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 group-title="地区",「河南」方城一套
 http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
 #EXTINF:-1 group-title="地区",「河南」扶沟综合频道
@@ -4500,12 +4196,6 @@ http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8?zhend
 http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
 #EXTINF:-1 group-title="地区",「河南」鹿邑新闻频道
 http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8?zhend
-#EXTINF:-1 group-title="地区",「河南」洛阳科教频道
-http://wshls.live.migucloud.com/live/3WH8OBTJ_C0/playlist.m3u8?zhend
-#EXTINF:-1 group-title="地区",「河南」洛阳文旅频道
-http://wshls.live.migucloud.com/live/G8B61RHW_C0/playlist.m3u8?zhend
-#EXTINF:-1 group-title="地区",「河南」洛阳综合频道
-http://wshls.live.migucloud.com/live/JARXUQWI_C0/playlist.m3u8?zhend
 #EXTINF:-1 group-title="地区",「河南」内黄综合频道
 http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend
 #EXTINF:-1 group-title="地区",「河南」内乡综合
@@ -4514,8 +4204,6 @@ http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8?zhend
 http://live.qinyangtv.com:82/channel2/sd/live.m3u8?zhend
 #EXTINF:-1 group-title="地区",「河南」汝南综合
 http://tvpull.dxhmt.cn:9081/tv/11727-1.m3u8?zhend
-#EXTINF:-1 group-title="地区",「河南」汝阳综合频道
-http://wshls.live.migucloud.com/live/U6X3VPCB_C0/playlist.m3u8?zhend
 #EXTINF:-1 group-title="地区",「河南」嵩县综合新闻
 http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?zhend
 #EXTINF:-1 group-title="地区",「河南」嵩县综合新闻
@@ -4532,8 +4220,6 @@ http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
 http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8?zhend
 #EXTINF:-1 group-title="地区",「河南」新安新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?zhend
-#EXTINF:-1 group-title="地区",「河南」新蔡综合
-http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?zhend
 #EXTINF:-1 group-title="地区",「河南」新乡县电视台
 http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?zhend
 #EXTINF:-1 group-title="地区",「河南」新野综合
@@ -4546,18 +4232,12 @@ http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8?zhend
 http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?zhend
 #EXTINF:-1 group-title="地区",「河南」永城卫建
 http://tvpull.dxhmt.cn/tv/11481-3.m3u8?zhend
-#EXTINF:-1 group-title="地区",「河南」永城综合
-http://tvpull.dxhmt.cn/tv/11481-4.m3u8?zhend
 #EXTINF:-1 group-title="地区",「河南」禹州公共
 http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
 #EXTINF:-1 group-title="地区",「河南」禹州公共
 http://tvpull.dxhmt.cn/tv/11081-2.m3u8?zhend
 #EXTINF:-1 group-title="地区",「河南」禹州综合
 http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
-#EXTINF:-1 group-title="地区",「黑龙江」大庆公共
-http://39.134.65.151/PLTV/88888888/224/3221225734/1.m3u8?zheild
-#EXTINF:-1 group-title="地区",「黑龙江」大庆公共
-http://39.134.65.149/PLTV/88888888/224/3221225734/1.m3u8?zheild
 #EXTINF:-1 group-title="地区",「黑龙江」大庆新闻综合
 http://39.134.65.151/PLTV/88888888/224/3221225736/1.m3u8?zheild
 #EXTINF:-1 group-title="地区",「黑龙江」大庆新闻综合
