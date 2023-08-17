@@ -360,9 +360,26 @@ http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 #EXTINF:-1 tvg-logo="http://152.136.244.145/fh/fenghuangzhongwen.png" group-title="主线路2",凤凰中文
 https://17186.eu.org/php/phtv/fhzw.flv
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="主线路2",翡翠
+http://r.jdshipin.com/qClQf
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="主线路2",翡翠
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="主线路2",翡翠
 http://113.117.74.18:8081/hls/67/index.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="主线路2",翡翠
+https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="主线路2",翡翠
+http://r.jdshipin.com/62WM7
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="主线路2",翡翠
+https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="主线路2",翡翠
+http://r.jdshipin.com/n90gt
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="主线路2",翡翠
+https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="主线路2",翡翠
 https://epg.pw/stream/531835a4364877a08c4abed27fbc8c692c9383080a2f55838408be805ba91898.ctv
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="主线路2",翡翠
+http://113.117.74.20:8081/hls/25/index.m3u8
+
 
 
 
